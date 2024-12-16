@@ -10,7 +10,7 @@ import remarkHtml from 'remark-html';
 
 import UserStory from '../components/UserStory';
 
-const UserStoryPreview = ({ entry, widgetsFor, getAsset }) => {
+const UserStoryPreview = ({entry, widgetsFor, getAsset}) => {
     const data = entry.toJS().data;
     const paragraphs = widgetsFor('body_content').getIn(['data', 'paragraphs']);
     
@@ -20,20 +20,18 @@ const UserStoryPreview = ({ entry, widgetsFor, getAsset }) => {
         };
     }
 
-    data.quotes = data.quotes.map(function (quote, idx) {
+    data.quotes = data.quotes.map((quote, idx) => {
         const quoteData = entry.getIn(['data', 'quotes', idx]).toJS();
         return {
             ...quote,
             image: getAsset(quoteData.image).url,
-        }
+        };
     });
 
     const props = {
         ...data,
         image: getAsset(entry.getIn(['data', 'image'])).url,
     };
-    console.log('props', props);
-
     return (
         <Layout title={'foo'}>
             <UserStory {...props} />
