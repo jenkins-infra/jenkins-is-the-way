@@ -14,6 +14,7 @@ export default [
                 babelOptions: {
                     presets: ['@babel/preset-react'],
                 },
+                sourceType: 'module',
             },
             globals: {
                 __PATH_PREFIX__: true,
@@ -77,8 +78,8 @@ export default [
             'strict': [2, 'global'],
         },
         settings: {
-            'import/extensions': ['.js', '.jsx'],
-            'import/resolver': {node: {extensions: ['.js', '.jsx']}},
+            'import/extensions': ['.js', '.jsx', '.cjs'],
+            'import/resolver': {node: {extensions: ['.js', '.jsx', '.cjs']}},
             'react': {version: 'detect'},
         },
         ignores: [
