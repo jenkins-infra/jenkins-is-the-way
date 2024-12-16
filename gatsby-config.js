@@ -18,11 +18,11 @@ module.exports = {
             },
         },
         {
-            resolve: 'gatsby-plugin-netlify-cms',
+            resolve: 'gatsby-plugin-decap-cms',
             options: {
-                modulePath: require.resolve('./src/cms/netlify.jsx')
-            }
-        },
+                modulePath: `${__dirname}/src/cms/cms.js`, // Path to your CMS configuration
+            },
+        },        
         {
             resolve: 'gatsby-plugin-matomo',
             options: {
