@@ -101,7 +101,7 @@ exports.onCreateNode = async ({node, actions, loadNodeContent, createNodeId, cre
     }
 };
 
-exports.createSchemaCustomization = ({actions: {createTypes}, createResolvers}) => {
+exports.createSchemaCustomization = ({actions: {createTypes}}) => {
     createTypes(`
         scalar Date
 
@@ -127,6 +127,7 @@ exports.createSchemaCustomization = ({actions: {createTypes}, createResolvers}) 
           paragraphs: [MarkdownRemark] @link
         }
     `);
+};
 
 exports.createResolvers = ({createResolvers}) => {
     const {GraphQLScalarType} = require('graphql');
