@@ -103,6 +103,8 @@ exports.onCreateNode = async ({node, actions, loadNodeContent, createNodeId, cre
 
 exports.createSchemaCustomization = ({actions: {createTypes}}) => {
     createTypes(`
+        scalar Date
+
         type UserStoryMetadata {
           build_tools: [String]
           community_supports: [String]
@@ -124,8 +126,31 @@ exports.createSchemaCustomization = ({actions: {createTypes}}) => {
           title: String
           paragraphs: [MarkdownRemark] @link
         }
+    `);
 
-  `);
+    const { GraphQLScalarType } = require('graphql');
+    const { Kind } = require('graphql/language');
+
+    const DateScalar = new GraphQLScalarType({
+        name: 'Date',
+        description: 'A valid ISO-8601 date string',
+        serialize(value) {
+            return value;
+        },
+        parseValue(value) {
+            return new Date(value);
+        },
+        parseLiteral(ast) {
+            if (ast.kind === Kind.STRING) {
+                return new Date(ast.value);
+            }
+            return null;
+        },
+    });
+
+    actions.createResolvers({
+        Date: DateScalar,
+    });
 };
 
 exports.onCreateWebpackConfig = ({stage, loaders, actions}) => {
