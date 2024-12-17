@@ -128,6 +128,7 @@ exports.createSchemaCustomization = ({actions: {createTypes}, createResolvers}) 
         }
     `);
 
+exports.createResolvers = ({createResolvers}) => {
     const {GraphQLScalarType} = require('graphql');
     const {Kind} = require('graphql/language');
 
