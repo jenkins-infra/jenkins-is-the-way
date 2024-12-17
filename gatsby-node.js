@@ -128,8 +128,8 @@ exports.createSchemaCustomization = ({actions: {createTypes}}) => {
         }
     `);
 
-    const { GraphQLScalarType } = require('graphql');
-    const { Kind } = require('graphql/language');
+    const {GraphQLScalarType} = require('graphql');
+    const {Kind} = require('graphql/language');
 
     const DateScalar = new GraphQLScalarType({
         name: 'Date',
@@ -148,7 +148,7 @@ exports.createSchemaCustomization = ({actions: {createTypes}}) => {
         },
     });
 
-    actions.createResolvers({
+    createResolvers({
         Date: DateScalar,
     });
 };
