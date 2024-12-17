@@ -101,7 +101,7 @@ exports.onCreateNode = async ({node, actions, loadNodeContent, createNodeId, cre
     }
 };
 
-exports.createSchemaCustomization = ({actions: {createTypes},createResolvers}) => {
+exports.createSchemaCustomization = ({actions: {createTypes}, createResolvers}) => {
     createTypes(`
         scalar Date
 
