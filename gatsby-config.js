@@ -31,7 +31,6 @@ module.exports = {
                 siteUrl: 'https://stories.jenkins.io'
             }
         },
-        'gatsby-plugin-react-helmet',
         'gatsby-plugin-sitemap',
         'gatsby-plugin-image',
         'gatsby-plugin-sharp',
@@ -82,6 +81,5 @@ module.exports = {
                 dest: `${__dirname}/schema.graphql`,
             },
         },
-        'gatsby-plugin-netlify'
     ]
 };
