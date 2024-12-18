@@ -77,7 +77,7 @@ exports.onCreateNode = async ({node, actions, loadNodeContent, createNodeId, cre
             yamlNode.internal.contentDigest = createContentDigest(yamlNode);
 
             createNode(yamlNode);
-            createParentChildLink({ parent: node, child: yamlNode });
+            createParentChildLink({parent: node, child: yamlNode});
 
             for (let i = 0; i < paragraphs.length; i++) {
                 const markdownNode = {
