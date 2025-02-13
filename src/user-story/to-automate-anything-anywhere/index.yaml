@@ -54,6 +54,7 @@ body_content:
       *   Our development release cycles have been shortened from days to hours
 title: Jenkins is the way to automate anything, anywhere
 date: 2021-08-21T16:27:42.000Z
+authored_by: Giacomo Gorgellino
 post_name: to-automate-anything-anywhere
 quotes:
   - from: Giacomo Gorgellino, IT System Engineer
@@ -61,4 +62,3 @@ quotes:
     image: ./quote.png
 image: noun_jenkins_3451804.png
 tag_line: Building an IOS App in the Cloud
-submitted_by: Giacomo Gorgellino

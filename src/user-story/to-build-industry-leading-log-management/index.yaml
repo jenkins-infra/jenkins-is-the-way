@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Donald Morton
   location: Arkansas, USA
   industries:
     - Software Development
-  name: Donald Morton
-  latitude: "36.3728538"
-  longitude: "-94.2088172"
+  geojson: '{"type":"Point","coordinates":[-94.2088172,36.3728538]}'
 metadata:
   title: This build and release manager set out to upgrade the company's Jenkins
     installation adding more flexibility and power to their DevOps platform.
@@ -83,6 +82,7 @@ body_content:
       /).***"
 title: Jenkins is the way to build industry-leading log management
 date: 2020-08-05T17:51:13.000Z
+authored_by: Donald Morton
 post_name: to-build-industry-leading-log-management
 quotes:
   - from: Donald Morton, Build and Release Manager, Graylog
@@ -92,4 +92,3 @@ quotes:
     image: ./quote.png
 image: graylog-logo.png
 tag_line: Building a Flexible and Modern DevOps Platform
-submitted_by: Donald Morton

@@ -53,6 +53,7 @@ body_content:
       *   Experience faster delivery by sharing code between multiple teams thanks to Jenkins JCasC and IaC
 title: Jenkins is the way to run the custom automation your project needs
 date: 2021-09-24T18:17:52.000Z
+authored_by: Eriks Zelenka
 post_name: to-run-the-custom-automation-your-project-needs
 quotes:
   - from: Eriks Zelenka, Senior Devops Engineer, Floeberg Ltd
@@ -62,4 +63,3 @@ quotes:
     image: ./quote.png
 image: noun_online-shopping_488396.png
 tag_line: Integrated Retail Product Systems
-submitted_by: Eriks Zelenka

@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Christopher Duffy
   location: Florida, USA
   industries:
     - Technology
-  name: Christopher Duffy
-  latitude: "27.8661364"
-  longitude: "-82.32648089999999"
+  geojson: '{"type":"Point","coordinates":[-82.32648089999999,27.8661364]}'
 metadata:
   title: The DevOps Life turns to Jenkins to automate its blogging website.
   organization: The DevOps Life, <https://thedevopslife.com/>
@@ -68,6 +67,7 @@ body_content:
       *   Notifications of whenever backups are not successful.
 title: Jenkins is the way to automate all the things
 date: 2021-02-24T15:21:43.000Z
+authored_by: Christopher Duffy
 post_name: jenkins-is-the-way-to-automate-all-the-things
 quotes:
   - from: Christopher Duffy, DevOps and Automation Engineer at The DevOps Life
@@ -76,4 +76,3 @@ quotes:
     image: ./quote.png
 image: noun_Blog_2389123.png
 tag_line: Building, Deploying, and Automating Everything
-submitted_by: Christopher Duffy

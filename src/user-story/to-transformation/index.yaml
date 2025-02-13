@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Shyam Thadichetti
   location: India
   industries:
     - Healthcare
-  name: Shyam Thadichetti
-  latitude: "18.4385553"
-  longitude: "79.1288412"
+  geojson: '{"type":"Point","coordinates":[79.1288412,18.4385553]}'
 metadata:
   title: Roche uses Jenkins to help design apps that enable more informed
     treatment decisions and improve patient care through near real-time access
@@ -63,6 +62,7 @@ body_content:
       *   continuous feedback
 title: Jenkins is the way to healthcare transformation
 date: 2021-06-09T19:42:49.000Z
+authored_by: Shyam Thadichetti
 post_name: to-transformation
 quotes:
   - from: Shyam Thadichetti, DevOps Engineer, Roche
@@ -71,4 +71,3 @@ quotes:
     image: ./quote.png
 image: roche.png
 tag_line: Roche Navify Tumour Board
-submitted_by: Shyam Thadichetti

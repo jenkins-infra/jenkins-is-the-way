@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Kanstantsin Harbachou
   location: Belarus
   industries:
     - Legal
-  name: Kanstantsin Harbachou
-  latitude: "52.4313388"
-  longitude: "30.99367"
+  geojson: '{"type":"Point","coordinates":[30.99367,52.4313388]}'
 metadata:
   title: A Belarus-based startup supporting the legal industry found that
     automating test runs allowed even non-experienced staff to operate the CI/CD
@@ -62,6 +61,7 @@ body_content:
       *   we configured pipelines for all kinds of testing
 title: Jenkins is the way to make your work comfortable
 date: 2020-11-03T14:34:22.000Z
+authored_by: Kanstantsin Harbachou
 post_name: to-make-your-work-comfortable
 quotes:
   - from: Kanstantsin Harbachou, Test Automation Engineer
@@ -70,4 +70,3 @@ quotes:
     image: ./quote.png
 image: noun_Document-Management_2019473-768x768.png
 tag_line: Document Generation Service
-submitted_by: Kanstantsin Harbachou

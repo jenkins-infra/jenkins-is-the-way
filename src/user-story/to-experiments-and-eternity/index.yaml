@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Eugene Starchenko
   location: Ukraine
   industries:
     - Consulting
-  name: Eugene Starchenko
-  latitude: "50.45314740000001"
-  longitude: "30.5179502"
+  geojson: '{"type":"Point","coordinates":[30.5179502,50.45314740000001]}'
 metadata:
   title: Cloudologia's, a cloud consulting firm, boosted their software
     development cycle by creating a unified CI/CD system powered by Jenkins.
@@ -81,6 +80,7 @@ body_content:
       *   The system is now managed and supported only by 2 engineers
 title: Jenkins is the way to experiments & eternity
 date: 2020-09-07T16:01:03.000Z
+authored_by: Eugene Starchenko
 post_name: to-experiments-and-eternity
 quotes:
   - from: Eugene Starchenko, CTO, Cloudologia
@@ -88,4 +88,3 @@ quotes:
     image: ./quote.png
 image: noun_development_1959082-768x768.png
 tag_line: Onboarding A Consulting Group's Development Team
-submitted_by: Eugene Starchenko

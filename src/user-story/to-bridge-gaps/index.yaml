@@ -36,6 +36,7 @@ body_content:
       *   Result #3 -- No manual run
 title: Jenkins is the way to bridge gaps
 date: 2021-11-01T16:24:52.000Z
+authored_by: Mayank Goyal
 post_name: to-bridge-gaps
 quotes:
   - from: Mayank Goyal, Developer in India
@@ -44,4 +45,3 @@ quotes:
     image: ./quote.png
 image: noun_programming_3471448.png
 tag_line: High Availability
-submitted_by: Mayank Goyal

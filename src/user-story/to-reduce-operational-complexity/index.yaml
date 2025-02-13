@@ -40,6 +40,7 @@ body_content:
       *   Non-technical members have greater auto
 title: Jenkins is the way to reduce operational complexity
 date: 2021-09-07T16:50:56.000Z
+authored_by: Roger Firpo
 post_name: to-reduce-operational-complexity
 quotes:
   - from: Roger Firpo, DevOps Engineer
@@ -48,4 +49,3 @@ quotes:
     image: ./quote.png
 image: noun_database_2698554.png
 tag_line: Operations Automation
-submitted_by: Roger Firpo

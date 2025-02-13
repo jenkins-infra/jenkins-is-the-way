@@ -54,6 +54,7 @@ body_content:
       *   easy to measure metrics for future improvement targets
 title: Jenkins is the way to unify development experience across many platforms
 date: 2021-09-28T14:21:59.000Z
+authored_by: Jason Einon
 post_name: to-unify-development-experience-across-many-platforms
 quotes:
   - from: Jason Einon, Cloud Development Manager, Appnovation
@@ -64,4 +65,3 @@ quotes:
     image: ./quote.png
 image: Appnovation_Technologies_Inc__Appnovation_Awarded_Six_Communicat.jpg
 tag_line: Internal self-service portal
-submitted_by: Jason Einon

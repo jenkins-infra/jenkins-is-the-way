@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Akhil Pradhan
   location: Texas, USA
   industries:
     - Automotive
-  name: Akhil Pradhan
-  latitude: "33.0198431"
-  longitude: "-96.6988856"
+  geojson: '{"type":"Point","coordinates":[-96.6988856,33.0198431]}'
 metadata:
   title: The technology team fueling a global automotive company was struggling
     with builds and processes due to an antiquated legacy system. They turned to
@@ -81,6 +80,7 @@ body_content:
       *   reduced change failure rate
 title: Jenkins is the way to do CI/CD right
 date: 2020-04-09T23:19:21.000Z
+authored_by: Akhil Pradhan
 post_name: to-do-ci-cd-right
 quotes:
   - from: Akhil Pradhan, DevOps Architect
@@ -90,4 +90,3 @@ quotes:
     image: ./quote.png
 image: noun_car-transmitter_293799-300x300.png
 tag_line: DevOps Platform in the Automotive Industry
-submitted_by: Akhil Pradhan

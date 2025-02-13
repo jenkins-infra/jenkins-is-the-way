@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Vitor Lobao
   location: Brazil
   industries:
     - Healthcare
-  name: Vitor Lobao
-  latitude: "-25.4372382"
-  longitude: "-49.2699727"
+  geojson: '{"type":"Point","coordinates":[-49.2699727,-25.4372382]}'
 metadata:
   title: Carta Healthcare looked to Jenkins automation when they wanted as many
     parallel software builds as possible, cost-effectively.
@@ -83,6 +82,7 @@ body_content:
       *   IaC culture
 title: Jenkins is the way to modernize healthcare
 date: 2020-12-30T13:58:06.000Z
+authored_by: Vitor Lobao
 post_name: to-modernize-healthcare
 quotes:
   - from: Vitor Lobao, DevOps Engineer, Carta Healthcare
@@ -90,4 +90,3 @@ quotes:
     image: ./quote.png
 image: VaCK7s9x_400x400.jpg
 tag_line: Serverless Builds for Doctors
-submitted_by: Vitor Lobao

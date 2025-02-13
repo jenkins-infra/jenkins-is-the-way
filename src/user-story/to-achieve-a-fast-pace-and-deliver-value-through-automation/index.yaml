@@ -56,6 +56,7 @@ body_content:
       *   Operational efficiency
 title: Jenkins is the way to achieve a fast pace and deliver value through automation
 date: 2021-12-23T17:53:02.000Z
+authored_by: Alexandre Mioranza
 post_name: to-achieve-a-fast-pace-and-deliver-value-through-automation
 quotes:
   - from: Alexandre Mioranza, SRE, ZenviaName
@@ -65,4 +66,3 @@ quotes:
     image: ./quote.png
 image: noun_Digital-Agency_1275969.png
 tag_line: Zenvia Conversational Cloud
-submitted_by: Alexandre Mioranza

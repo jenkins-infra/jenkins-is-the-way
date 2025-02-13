@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Konstantin Starovoytov
   location: Belarus
   industries:
     - E-commerce & Retail
-  name: Konstantin Starovoytov
-  latitude: "53.926182"
-  longitude: "27.4520951"
+  geojson: '{"type":"Point","coordinates":[27.4520951,53.926182]}'
 metadata:
   title: Using Jenkins helped the ISsoft technology team configure and manage CI
     testing, making their working processes a whole lot better.
@@ -54,6 +53,7 @@ body_content:
       *   more effective output via newly-added post step for reporting results and getting results immediately via email
 title: Jenkins is the way to make CI testing management easy and enjoyable
 date: 2020-08-12T09:20:25.000Z
+authored_by: Konstantin Starovoytov
 post_name: to-make-ci-testing-management-easy-and-enjoyable
 quotes:
   - from: Konstantin Starovoytov, QA Automation, ISsoft
@@ -63,4 +63,3 @@ quotes:
     image: ./quote.png
 image: issoft_logo_dark-blue@1x.png
 tag_line: Automating Testing and Reporting for Online Retailer
-submitted_by: Konstantin Starovoytov

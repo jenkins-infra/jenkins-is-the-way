@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Thibaut Le Levier
   location: France
   industries:
     - Software Development
-  name: Thibaut Le Levier
-  latitude: "47.218371"
-  longitude: "-1.553621"
+  geojson: '{"type":"Point","coordinates":[-1.553621,47.218371]}'
 metadata:
   title: When it was time to build a large CI platform to support rapid app
     development, the engineers at this software company turned to Jenkins.
@@ -54,6 +53,7 @@ body_content:
       *   pipelines
 title: Jenkins is the way to scale your builds
 date: 2020-06-19T04:51:29.000Z
+authored_by: Thibaut Le Levier
 post_name: to-scale-your-builds
 quotes:
   - from: Thibaut Le Levier, CI Engineer
@@ -61,4 +61,3 @@ quotes:
     image: ./quote.png
 image: Notes-300x300.png
 tag_line: Note Taking App
-submitted_by: Thibaut Le Levier

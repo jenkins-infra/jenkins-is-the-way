@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Amet Umerov
   location: Ukraine
   industries:
     - Education
-  name: Amet Umerov
-  latitude: "48.379433"
-  longitude: "31.16558"
+  geojson: '{"type":"Point","coordinates":[31.16558,48.379433]}'
 metadata:
   title: Preply's engineering team set out to create a fully automated CI/CD
     process for all projects inside its global online education company. They
@@ -61,6 +60,7 @@ body_content:
       ). >>"
 title: Jenkins is the way to make your configuration as a code possible
 date: 2020-06-23T01:46:35.000Z
+authored_by: Amet Umerov
 post_name: to-make-your-configuration-as-a-code-possible
 quotes:
   - from: Amet Umerov, DevOps Engineer, Preply
@@ -70,4 +70,3 @@ quotes:
     image: ./quote.png
 image: preply.png
 tag_line: Building Jenkins as a Code
-submitted_by: Amet Umerov

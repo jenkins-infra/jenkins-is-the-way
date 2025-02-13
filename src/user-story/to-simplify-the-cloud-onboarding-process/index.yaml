@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Ant Kenworthy
   location: United Kingdom
   industries:
     - Government
-  name: Ant Kenworthy
-  latitude: "53.4446363"
-  longitude: "-2.3214633"
+  geojson: '{"type":"Point","coordinates":[-2.3214633,53.4446363]}'
 metadata:
   title: This UK government project involved migrating a legacy system to the
     cloud. And, of course, it needed to be done at an accelerated pace.
@@ -63,6 +62,7 @@ body_content:
       *   build processes are consistently logged
 title: Jenkins is the way to simplify the cloud onboarding process
 date: 2020-05-12T02:26:23.000Z
+authored_by: Ant Kenworthy
 post_name: to-simplify-the-cloud-onboarding-process
 quotes:
   - from: Ant Kenworthy, Senior DevOps
@@ -71,4 +71,3 @@ quotes:
     image: ./quote.png
 image: noun_Cloud-Computer_1230823-300x300.png
 tag_line: Cloud On-ramp
-submitted_by: Ant Kenworthy

@@ -68,6 +68,7 @@ body_content:
       *   We don't have to install Jenkins again and again in different systems, we use an image that I created once
 title: Jenkins is the way to automate, create, and execute
 date: 2021-12-12T16:04:45.000Z
+authored_by: Anuja Kumari
 post_name: to-automate-create-and-execute
 quotes:
   - from: Anuja Kumari,  Student, Sandip Institute of Technology & Research Centre
@@ -75,4 +76,3 @@ quotes:
     image: ./quote.png
 image: noun_jenkins_3451804.png
 tag_line: Deploy Jenkins on Docker Container
-submitted_by: Anuja Kumari

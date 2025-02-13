@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Swaraj Dutta
   location: India
   industries:
     - Information Technology
-  name: Swaraj Dutta
-  latitude: "12.9715987"
-  longitude: "77.5945627"
+  geojson: '{"type":"Point","coordinates":[77.5945627,12.9715987]}'
 metadata:
   title: This developer from India's IBM Software Labs set out to lock down
     security in the cloud with Jenkins.
@@ -35,6 +34,7 @@ body_content:
       *   Decrease build server costs with a containerised Jenkins build
 title: Jenkins is the way to faster product release
 date: 2021-06-11T11:30:08.000Z
+authored_by: Swaraj Dutta
 post_name: to-faster-product-release
 quotes:
   - from: Swaraj Dutta, Cloud Security & Compliance Developer,  IBM
@@ -42,4 +42,3 @@ quotes:
     image: ./quote.png
 image: ibm-logo-vector-download.jpg
 tag_line: IBM Cloud
-submitted_by: Swaraj Dutta

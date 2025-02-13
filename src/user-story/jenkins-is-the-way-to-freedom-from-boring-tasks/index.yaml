@@ -50,6 +50,7 @@ body_content:
       *   The need for manual intervention to check the reports is eliminated
 title: Jenkins is the way to freedom from boring tasks
 date: 2021-10-05T15:31:13.000Z
+authored_by: Amit Sharma
 post_name: jenkins-is-the-way-to-freedom-from-boring-tasks
 quotes:
   - from: Amit Sharma, Sr. Software Development Engineer in Test, Xperi
@@ -60,4 +61,3 @@ quotes:
     image: ./quote.png
 image: xperi.png
 tag_line: Xperi's AMA Platform
-submitted_by: Amit Sharma

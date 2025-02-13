@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Marco de Krijger
   location: Netherlands
   industries:
     - Consulting
-  name: Marco de Krijger
-  latitude: "51.62870969999999"
-  longitude: "4.9382385"
+  geojson: '{"type":"Point","coordinates":[4.9382385,51.62870969999999]}'
 metadata:
   title: With over 50 Java repositories, this Netherlands-based DevOps consultant
     dealt with over 300 simultaneous Jenkins jobs and lots of duplication
@@ -90,6 +89,7 @@ body_content:
       *   Continuous delivery
 title: Jenkins is the way to fulfill every build wish we might come up with
 date: 2021-08-19T12:46:02.000Z
+authored_by: Marco de Krijger
 post_name: to-fulfill-every-build-wish-we-might-come-up-with
 quotes:
   - from: Marco de Krijger, DevOps Engineer
@@ -99,4 +99,3 @@ quotes:
     image: ./quote.png
 image: noun_wish_3168775.png
 tag_line: Enterprise-scaled Java Application
-submitted_by: Marco de Krijger

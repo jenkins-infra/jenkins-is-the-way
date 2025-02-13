@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Ferdila Rahmi
   location: Indonesia
   industries:
     - Defense Technology
-  name: Ferdila Rahmi
-  latitude: "-6.9174639"
-  longitude: "107.6191228"
+  geojson: '{"type":"Point","coordinates":[107.6191228,-6.9174639]}'
 metadata:
   title: Indonesian electricity tech leader finds that Jenkins and DevOps provide
     smarter automation and happier developers.
@@ -56,6 +55,7 @@ body_content:
       *   open source
 title: Jenkins is the way to kill 'em with agile
 date: 2021-04-11T19:30:50.000Z
+authored_by: Ferdila Rahmi
 post_name: to-kill-em-with-agile
 quotes:
   - from: Ferdila Rahmi, Software Engineer, PT Len Industri
@@ -64,4 +64,3 @@ quotes:
     image: ./quote.png
 image: pt-len.jpg
 tag_line: Command Control System and Tactical Datalink
-submitted_by: Ferdila Rahmi

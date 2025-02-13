@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Emmanouil Katefidis
   location: Greece
   industries:
     - Cloud Computing
-  name: Emmanouil Katefidis
-  latitude: "38.2466395"
-  longitude: "21.734574"
+  geojson: '{"type":"Point","coordinates":[21.734574,38.2466395]}'
 metadata:
   title: A cloud platform engineer in Greece needed to develop a reliable and
     maintenance-free cloud development pipeline. He got there with Jenkins.
@@ -50,6 +49,7 @@ body_content:
       *   we have the ability to have the status for each step in the pipeline
 title: Jenkins is the way to build and test multiple environments
 date: 2021-06-22T20:28:28.000Z
+authored_by: Emmanouil Katefidis
 post_name: to-build-and-test-multiple-environments
 quotes:
   - from: Emmanouil Katefidis, Cloud Platform Engineer
@@ -58,4 +58,3 @@ quotes:
     image: ./quote.png
 image: noun_Cloud-Computing_3948010.png
 tag_line: Release Pipeline with Jenkins
-submitted_by: Emmanouil Katefidis

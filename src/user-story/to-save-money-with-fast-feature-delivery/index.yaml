@@ -65,6 +65,7 @@ body_content:
       *   strong security at user and networking level
 title: Jenkins is the way to save money with fast feature delivery
 date: 2021-10-02T15:07:01.000Z
+authored_by: Alberto Conchas Jiménez
 post_name: to-save-money-with-fast-feature-delivery
 quotes:
   - from: Alberto Conchas Jiménez, DevOps Engineer Lead, Tiempo Development
@@ -73,4 +74,3 @@ quotes:
     image: ./quote.png
 image: noun_Money-Time_4009349.png
 tag_line: Starting To Automate Software
-submitted_by: Alberto Conchas Jiménez

@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Javier Méndez Veira
   location: Spain
   industries:
     - Education
-  name: Javier Méndez Veira
-  latitude: "43.3555238"
-  longitude: "-8.255737600000002"
+  geojson: '{"type":"Point","coordinates":[-8.255737600000002,43.3555238]}'
 metadata:
   title: Improving the development of learning technologies, applications, and
     service-based-solutions to deliver digital learning in companies and
@@ -80,6 +79,7 @@ body_content:
       4.  We have reduced time spent on maintenance work by automating some processes to be executed on the development machines.
 title: Jenkins is the way to understand and simplify your software workflows
 date: 2021-03-07T16:07:35.000Z
+authored_by: Javier Méndez Veira
 post_name: to-understand-and-simplify-your-software-workflows-2
 quotes:
   - from: Javier Méndez Veira, Tech Lead, Netex Learning
@@ -87,4 +87,3 @@ quotes:
     image: ./quote.png
 image: q68kAUxu_400x400.png
 tag_line: "Talentcloud: Talent management in an e-learning Environment"
-submitted_by: Javier Méndez Veira

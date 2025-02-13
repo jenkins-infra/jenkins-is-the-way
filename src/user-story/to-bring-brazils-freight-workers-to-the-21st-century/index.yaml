@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Luís Felipe Teixeira
   location: Brazil
   industries:
     - Logistics
-  name: Luís Felipe Teixeira
-  latitude: "-23.4209995"
-  longitude: "-51.9330558"
+  geojson: '{"type":"Point","coordinates":[-51.9330558,-23.4209995]}'
 metadata:
   title: Jenkins is the backbone for the development of an innovative freight
     management app.
@@ -68,6 +67,7 @@ body_content:
       *   build parallelization and version management of the images created
 title: Jenkins is the way to bring Brazil's freight workers to the 21st century
 date: 2021-04-29T15:12:26.000Z
+authored_by: Luís Felipe Teixeira
 post_name: to-bring-brazils-freight-workers-to-the-21st-century
 quotes:
   - from: Luís Felipe Teixeira, Senior Automation Engineer, Sincrovia
@@ -76,4 +76,3 @@ quotes:
     image: ./quote.png
 image: Screen-Shot-2021-04-28-at-11.24.43-AM.png
 tag_line: Pioneering Big Data & AI
-submitted_by: Luís Felipe Teixeira

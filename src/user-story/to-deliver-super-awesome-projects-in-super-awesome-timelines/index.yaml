@@ -64,6 +64,7 @@ body_content:
       *   Development cycles take less time getting to QA
 title: Jenkins is the way to deliver super awesome projects in super awesome timelines
 date: 2021-11-16T16:19:42.000Z
+authored_by: Daniel Abbruzzese
 post_name: to-deliver-super-awesome-projects-in-super-awesome-timelines
 quotes:
   - from: Daniel Abbruzzese, Head of Cloud Technology
@@ -72,4 +73,3 @@ quotes:
     image: ./quote.png
 image: noun_IoT_3915938.png
 tag_line: Typhoon Engine
-submitted_by: Daniel Abbruzzese

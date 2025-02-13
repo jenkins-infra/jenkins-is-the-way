@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Githin Joseph
   location: India
   industries:
     - Travel
-  name: Githin Joseph
-  latitude: "10.1926394"
-  longitude: "76.3869289"
+  geojson: '{"type":"Point","coordinates":[76.3869289,10.1926394]}'
 metadata:
   title: With the charge to reduce the manual effort needed to test each new
     feature across nearly a dozen environments, Jenkins helped simplify and
@@ -69,6 +68,7 @@ body_content:
       *   Ability to deliver updates to customers more frequently
 title: Jenkins is the way to give nitro to builds and deployments
 date: 2020-06-25T01:20:28.000Z
+authored_by: Githin Joseph
 post_name: to-give-nitro-to-builds-and-deployments
 quotes:
   - from: Githin Joseph, Jenkins User
@@ -77,4 +77,3 @@ quotes:
     image: ./quote.png
 image: Travel-300x300.png
 tag_line: Automating build and deployment processes in airline passenger services
-submitted_by: Githin Joseph

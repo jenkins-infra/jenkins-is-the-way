@@ -53,6 +53,7 @@ body_content:
       *   When we have change necessities, it's so fast!
 title: Jenkins is the way to success in agile projects!
 date: 2021-12-10T15:32:16.000Z
+authored_by: Felipe Martinelli
 post_name: to-success-in-agile-projects
 quotes:
   - from: Felipe Martinelli, Manager, goFlux
@@ -63,4 +64,3 @@ quotes:
     image: ./quote.png
 image: Screen-Shot-2021-12-06-at-10.40.46-AM.png
 tag_line: "Dopster: Business Dynamism"
-submitted_by: Felipe Martinelli

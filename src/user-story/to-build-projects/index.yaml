@@ -49,6 +49,7 @@ body_content:
       *   Faster development process
 title: Jenkins is the way to build projects
 date: 2021-12-22T17:48:19.000Z
+authored_by: Lyubomir Stanev
 post_name: to-build-projects
 quotes:
   - from: Lyubomir Stanev, Team Lead for T24 Core Development
@@ -56,4 +57,3 @@ quotes:
     image: ./quote.png
 image: noun_Online-Banking_1907436.png
 tag_line: CAF Project (CI/CD Implementation)
-submitted_by: Lyubomir Stanev

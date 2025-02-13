@@ -51,6 +51,7 @@ body_content:
       *   Easier to maintain
 title: Jenkins is the way to spin up your business!
 date: 2021-08-30T16:44:28.000Z
+authored_by: Denis Oliveira
 post_name: to-spin-up-your-business
 quotes:
   - from: Denis Oliveira, DevOps Engineer
@@ -58,4 +59,3 @@ quotes:
     image: ./quote.png
 image: noun_AI_2089314.png
 tag_line: WakeUp Little Machine
-submitted_by: Denis Oliveira

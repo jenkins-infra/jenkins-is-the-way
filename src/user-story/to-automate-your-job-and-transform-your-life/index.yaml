@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Damian Zermeño
   location: Mexico
   industries:
     - Electronics Manufacturing
-  name: Damian Zermeño
-  latitude: "20.6243088"
-  longitude: "-103.3212248"
+  geojson: '{"type":"Point","coordinates":[-103.3212248,20.6243088]}'
 metadata:
   title: A small team in a big corporate organization boosts their productivity
     with Jenkins and becomes Jenkins evangelists throughout the company.
@@ -91,6 +90,7 @@ body_content:
       *   the creation of a well-tracked and controlled development cycle to our scripts
 title: Jenkins is the way to automate your job and transform your life
 date: 2021-02-03T20:01:18.000Z
+authored_by: Damian Zermeño
 post_name: to-automate-your-job-and-transform-your-life
 quotes:
   - from: Damian Zermeño, Systems Engineer
@@ -99,4 +99,3 @@ quotes:
     image: ./quote.png
 image: noun_team_3378175.png
 tag_line: Technical Support Task Automation in Mexico
-submitted_by: Damian Zermeño

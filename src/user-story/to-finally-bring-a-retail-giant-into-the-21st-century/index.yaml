@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: John Pope
   location: United Kingdom
   industries:
     - E-commerce & Retail
-  name: John Pope
-  latitude: "52.370878"
-  longitude: "-1.265032"
+  geojson: '{"type":"Point","coordinates":[-1.265032,52.370878]}'
 metadata:
   title: This UK-based grocery retailer wanted to put automation first and
     foremost, ensure that they respected bespoke systems, and kept the learning
@@ -66,6 +65,7 @@ body_content:
       *   Easy integration with bespoke systems
 title: Jenkins is the way to finally bring a retail giant into the 21st Century
 date: 2021-06-20T10:38:43.000Z
+authored_by: John Pope
 post_name: to-finally-bring-a-retail-giant-into-the-21st-century
 quotes:
   - from: John Pope, Cloud Engineer, Sainsburys
@@ -75,4 +75,3 @@ quotes:
     image: ./quote.png
 image: sainsburys-logo.jpeg
 tag_line: Faster Integration Delivery
-submitted_by: John Pope

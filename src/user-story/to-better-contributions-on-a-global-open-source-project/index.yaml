@@ -80,6 +80,7 @@ body_content:
       *   In the end, better quality overall!
 title: Jenkins is the way to better contributions on a global open-source project!
 date: 2021-08-20T11:48:52.000Z
+authored_by: Raphaël Defosseux
 post_name: to-better-contributions-on-a-global-open-source-project
 quotes:
   - from: Raphaël Defosseux, CI / DevOps Team Leader, OpenAirInterface
@@ -87,4 +88,3 @@ quotes:
     image: ./quote.png
 image: bUT6aWx__400x400.jpg
 tag_line: Open-source 4G/5G Wireless Software Stack
-submitted_by: Raphaël Defosseux

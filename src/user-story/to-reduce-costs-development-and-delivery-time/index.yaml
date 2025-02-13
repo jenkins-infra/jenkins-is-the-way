@@ -85,6 +85,7 @@ body_content:
       *   Multi-OS certification achieved with 1 day compared to 5 days of manual effort
 title: Jenkins is the way to reduce costs, development, and delivery time
 date: 2021-12-18T16:32:56.000Z
+authored_by: Nachiket Kulkarni
 post_name: to-reduce-costs-development-and-delivery-time
 quotes:
   - from: Nachiket Kulkarni, DevOps Engineer, NICE Actimize
@@ -94,4 +95,3 @@ quotes:
     image: ./quote.png
 image: noun_Computer-page-proofs_532092.png
 tag_line: Continuous Middleware Process Deployment with Jenkins
-submitted_by: Nachiket Kulkarni

@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Sebastien Sirtoli
   location: Belgium
   industries:
     - Transport
-  name: Sebastien Sirtoli
-  latitude: "50.5606"
-  longitude: "4.1724"
+  geojson: '{"type":"Point","coordinates":[4.1724,50.5606]}'
 metadata:
   title: Using Jenkins to bring new app-based features to residents, commuters,
     and tourists relying on public transport in Brussels.
@@ -46,6 +45,7 @@ body_content:
       *   Just one step to a CD deployment
 title: Jenkins is the way to automate the world
 date: 2021-04-07T14:54:04.000Z
+authored_by: Sebastien Sirtoli
 post_name: to-automate-the-world
 quotes:
   - from: Sebastien Sirtoli, DevOps Engineer
@@ -55,4 +55,3 @@ quotes:
     image: ./quote.png
 image: noun_Computer-Map_3283753.png
 tag_line: Pipe Inception
-submitted_by: Sebastien Sirtoli

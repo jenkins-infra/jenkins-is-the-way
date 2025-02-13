@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Mitchell Slotboom
   location: Netherlands
   industries:
     - Semiconductors
-  name: Mitchell Slotboom
-  latitude: "52.13537729999999"
-  longitude: "5.033362500000001"
+  geojson: '{"type":"Point","coordinates":[5.033362500000001,52.13537729999999]}'
 metadata:
   title: Family-owned company based in the Netherlands looks to Jenkins to speed
     development and expand pipelines.
@@ -46,6 +45,7 @@ body_content:
       *   Insanely better visibility
 title: Jenkins is the way to make life easy and fast
 date: 2021-08-04T15:33:14.000Z
+authored_by: Mitchell Slotboom
 post_name: to-make-life-easy-and-fast
 quotes:
   - from: Mitchell Slotboom, DevOps Engineer, TOPIC
@@ -53,4 +53,3 @@ quotes:
     image: ./quote.png
 image: topic-squarelogo-1439841967720.png
 tag_line: Qualification Pipeline
-submitted_by: Mitchell Slotboom

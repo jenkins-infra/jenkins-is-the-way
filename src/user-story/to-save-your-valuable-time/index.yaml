@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Abhineet Saxena
   location: India
   industries:
     - Information Technology
-  name: Abhineet Saxena
-  latitude: "26.9124336"
-  longitude: "75.7872709"
+  geojson: '{"type":"Point","coordinates":[75.7872709,26.9124336]}'
 metadata:
   title: India's first mobile healthcare communication and delivery platform
     wanted a software deployment process that was faster with a single-click
@@ -82,6 +81,7 @@ body_content:
       *   Single-click setup
 title: Jenkins is the way to save your valuable time
 date: 2021-04-05T14:45:32.000Z
+authored_by: Abhineet Saxena
 post_name: to-save-your-valuable-time
 quotes:
   - from: Abhineet Saxena, DevOps Engineer
@@ -91,4 +91,3 @@ quotes:
     image: ./quote.png
 image: noun_ECG_3114167.png
 tag_line: Automating Large Workflows With Single-click Deployment
-submitted_by: Abhineet Saxena

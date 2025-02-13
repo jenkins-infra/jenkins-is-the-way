@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Ahmed AbouZaid
   location: Germany
   industries:
     - Business Process Modeling (BPM)
-  name: Ahmed AbouZaid
-  latitude: "52.52000659999999"
-  longitude: "13.404954"
+  geojson: '{"type":"Point","coordinates":[13.404954,52.52000659999999]}'
 metadata:
   title: The engineers operating within a division of Camunda revamp their CI
     platform to meet their unique and evolving requirements.
@@ -140,6 +139,7 @@ body_content:
       *   A colossal knowledge gain about topics that helps it to perform better, like Kubernetes and infrastructure as code
 title: Jenkins is the way to build CI/CD that fits advanced and unique use cases
 date: 2021-08-19T13:04:06.000Z
+authored_by: Ahmed AbouZaid
 post_name: to-build-ci-cd-that-fits-advanced-and-unique-use-cases
 quotes:
   - from: Ahmed AbouZaid, DevOps Engineer, Camunda
@@ -149,4 +149,3 @@ quotes:
     image: ./quote.png
 image: camunda-2048x2048.png
 tag_line: Advanced Declarative Pipelines for Workflow and Decision Automation Platform
-submitted_by: Ahmed AbouZaid

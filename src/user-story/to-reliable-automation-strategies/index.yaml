@@ -130,6 +130,7 @@ body_content:
       *   Automation of Java-based artifacts into Azure DataBricks.
 title: Jenkins is the way to reliable automation strategies
 date: 2021-11-19T16:35:08.000Z
+authored_by: Adrian Gramada
 post_name: to-reliable-automation-strategies
 quotes:
   - from: Adrian Gramada, Technical Lead
@@ -138,4 +139,3 @@ quotes:
     image: ./quote.png
 image: noun_Workflow_2284479.png
 tag_line: APT Service Delivery
-submitted_by: \ Adrian Gramada\

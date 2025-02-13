@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Akshit Singhal
   location: India
   industries:
     - Automotive
-  name: Akshit Singhal
-  latitude: "28.9844618"
-  longitude: "77.7064137"
+  geojson: '{"type":"Point","coordinates":[77.7064137,28.9844618]}'
 metadata:
   title: A leading electric vehicle charging station needed to speed up its
     software deployment process. They skipped the manual effort and went
@@ -62,6 +61,7 @@ body_content:
       *   early tracking of bugs
 title: Jenkins is the way to make the DevOps process simple and enjoyable
 date: 2021-05-03T22:23:53.000Z
+authored_by: Akshit Singhal
 post_name: to-make-the-devops-process-simple-and-enjoyable
 quotes:
   - from: Akshit Singhal, DevOps Engineer
@@ -71,4 +71,3 @@ quotes:
     image: ./quote.png
 image: noun_Electric-Car_2972764.png
 tag_line: Electric Vehicle Charging Station
-submitted_by: Akshit Singhal

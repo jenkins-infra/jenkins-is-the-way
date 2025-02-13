@@ -62,6 +62,7 @@ body_content:
       *   It's great to be able to secure the build immediately
 title: Jenkins is the way to safe, secure, and reliable product delivery
 date: 2021-12-16T16:18:02.000Z
+authored_by: Prabhu Chinnappan
 post_name: to-safe-secure-and-reliable-product-delivery
 quotes:
   - from: Prabhu Chinnappan, Program Manager DevOps, Finastra
@@ -70,4 +71,3 @@ quotes:
     image: ./quote.png
 image: finastra.png
 tag_line: Secured Code and Build
-submitted_by: Prabhu Chinnappan

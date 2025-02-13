@@ -73,6 +73,7 @@ body_content:
       *   Better deployment practices improved overall efficiency and code quality (now with Sonarqube!)
 title: Jenkins is the way to developer paradise
 date: 2021-10-10T17:52:58.000Z
+authored_by: John Crafton
 post_name: jenkins-is-the-way-to-developer-paradise
 quotes:
   - from: John Crafton, Sr. Software Architect
@@ -82,4 +83,3 @@ quotes:
     image: ./quote.png
 image: Jenkins-logo.png
 tag_line: Deploying All Things
-submitted_by: John Crafton

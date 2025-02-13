@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Julio Conchas
   location: Mexico
   industries:
     - Cloud Computing
-  name: Julio Conchas
-  latitude: "20.6719563"
-  longitude: "-103.416501"
+  geojson: '{"type":"Point","coordinates":[-103.416501,20.6719563]}'
 metadata:
   title: An IBM DevOps team looked to Jenkins to simplify and reduce time spent in
     the build process.
@@ -41,6 +40,7 @@ body_content:
       *   accelerated release delivery
 title: Jenkins is the way to keep the world spinning
 date: 2021-04-13T19:36:48.000Z
+authored_by: Julio Conchas
 post_name: to-keep-the-world-spinning
 quotes:
   - from: Julio Conchas, DevOps, IBM
@@ -49,4 +49,3 @@ quotes:
     image: ./quote.png
 image: ibm-logo-vector-download.jpg
 tag_line: Storage Build Automation (SBA)
-submitted_by: Julio Conchas

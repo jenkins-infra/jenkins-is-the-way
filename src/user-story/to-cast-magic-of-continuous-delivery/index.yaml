@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Xuefeng Shi
   location: China
   industries:
     - E-commerce & Retail
-  name: Xuefeng Shi
-  latitude: "39.921469"
-  longitude: "116.443107"
+  geojson: '{"type":"Point","coordinates":[116.443107,39.921469]}'
 metadata:
   title: "When you are one of the leading internet companies in China, it's
     critical to have a solid DevOps platform to ensure flawless delivery. And
@@ -85,6 +84,7 @@ body_content:
       *   high availability of continuous delivery platform
 title: Jenkins is the way to cast magic of continuous delivery
 date: 2020-04-21T15:24:45.000Z
+authored_by: Xuefeng Shi
 post_name: to-cast-magic-of-continuous-delivery
 quotes:
   - from: Xuefeng Shi, Software Engineer, JD.com
@@ -94,4 +94,3 @@ quotes:
     image: ./quote.png
 image: Shi_JDcom-300x300.jpg
 tag_line: Improve the Velocity of Software Delivery
-submitted_by: Xuefeng Shi

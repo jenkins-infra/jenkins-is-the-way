@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Christophe Michaux
   location: France
   industries:
     - Financial Services
-  name: Christophe Michaux
-  latitude: "43.405825"
-  longitude: "5.527921999999999"
+  geojson: '{"type":"Point","coordinates":[5.527921999999999,43.405825]}'
 metadata:
   title: DevOps engineer drives DevOps with a Jenkins assist.
   industries:
@@ -91,6 +90,7 @@ body_content:
       *   the process is the same for all of the different projects
 title: Jenkins is the way to help developers properly do their jobs
 date: 2021-03-12T17:28:21.000Z
+authored_by: Christophe Michaux
 post_name: to-help-developers-properly-do-their-jobs
 quotes:
   - from: Christophe Michaux, DevOps CI Engineer
@@ -101,4 +101,3 @@ quotes:
     image: ./quote.png
 image: noun_money-computer_573835.png
 tag_line: CI/CD for Leading French Bank
-submitted_by: Christophe Michaux

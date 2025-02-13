@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Jorge Uztariz
   location: Colombia
   industries:
     - Software Developement
-  name: Jorge Uztariz
-  latitude: "4.619519299999999"
-  longitude: "-74.17200989999999"
+  geojson: '{"type":"Point","coordinates":[-74.17200989999999,4.619519299999999]}'
 metadata:
   title: Colombia-based DevOps team leans on Jenkins automation for speed and safe
     delivery of client artifacts.
@@ -88,6 +87,7 @@ body_content:
       *   no worries about database backups
 title: Jenkins is the way to faster and safer shipping to clients
 date: 2021-08-15T16:10:25.000Z
+authored_by: Jorge Uztariz
 post_name: to-faster-and-safer-shipping-to-clients
 quotes:
   - from: Jorge Uztariz, Devops Lead, Consis Internacional
@@ -96,4 +96,3 @@ quotes:
     image: ./quote.png
 image: A36pIhjZ_400x400.png
 tag_line: Automate and Send Artifacts
-submitted_by: Jorge Uztariz

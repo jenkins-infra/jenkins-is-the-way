@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Erik Woitschig
   location: Germany
   industries:
     - Advertising & Marketing
-  name: Erik Woitschig
-  latitude: "52.5020327"
-  longitude: "13.4315013"
+  geojson: '{"type":"Point","coordinates":[13.4315013,52.5020327]}'
 metadata:
   title: Muzkat, a small creative agency, wanted to simplify the build, test and
     deploy process. They did so using Jenkins.
@@ -70,6 +69,7 @@ body_content:
       *   shared knowledge across a happy team
 title: Jenkins is the way to add spicy flavors to Muzkat's processes
 date: 2020-09-10T15:41:18.000Z
+authored_by: Erik Woitschig
 post_name: to-add-spicy-flavors-to-muzkats-processes
 quotes:
   - from: Erik Woitschig, Founder / Developer, Muzkat
@@ -78,4 +78,3 @@ quotes:
     image: ./quote.png
 image: muzkat.png
 tag_line: Simplifying Build, Test and Deploy at a 3-person Creative Start-up
-submitted_by: Erik Woitschig

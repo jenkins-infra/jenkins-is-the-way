@@ -63,6 +63,7 @@ body_content:
       *   seamless implementation of pipelines
 title: Jenkins is the way to automate complex tasks
 date: 2021-10-23T16:04:43.000Z
+authored_by: Fabio Segredo
 post_name: to-automate-complex-tasks
 quotes:
   - from: Fabio Segredo, DevOps Team
@@ -71,4 +72,3 @@ quotes:
     image: ./quote.png
 image: noun_Computer-Time_3616096.png
 tag_line: Simplifying the Build and Deploy Process with Jenkins
-submitted_by: Fabio Segredo

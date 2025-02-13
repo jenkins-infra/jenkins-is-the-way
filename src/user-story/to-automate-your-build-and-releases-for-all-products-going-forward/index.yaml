@@ -44,6 +44,7 @@ body_content:
 title: Jenkins is the way to automate your build and releases for all products
   going forward
 date: 2021-12-27T18:26:38.000Z
+authored_by: Ganesh Mulik
 post_name: to-automate-your-build-and-releases-for-all-products-going-forward
 quotes:
   - from: Ganesh Mulik, Software Developer, TCS
@@ -53,4 +54,3 @@ quotes:
     image: ./quote.png
 image: noun_automation-testing_3538848.png
 tag_line: Manufacturing Integration Development
-submitted_by: Ganesh Mulik

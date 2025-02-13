@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Mallanna Biradar
   location: India
   industries:
     - Semiconductors
-  name: Mallanna Biradar
-  latitude: "12.9715987"
-  longitude: "77.5945626"
+  geojson: '{"type":"Point","coordinates":[77.5945626,12.9715987]}'
 metadata:
   title: After incorporating Jenkins, this head of automation has a centralized
     place to trigger, test, and monitor results in no time.
@@ -77,6 +76,7 @@ body_content:
       *   We achieved stability between different releases
 title: Jenkins is the way to test software packages overnight
 date: 2021-05-10T22:52:51.000Z
+authored_by: Mallanna Biradar
 post_name: to-test-software-packages-overnight
 quotes:
   - from: Mallanna Biradar, Lead Engineer / Automation
@@ -89,4 +89,3 @@ quotes:
     image: ./quote.png
 image: noun_Configuration-File_1907178-300x300.png
 tag_line: Technology Package Testing with Jenkins
-submitted_by: Mallanna Biradar

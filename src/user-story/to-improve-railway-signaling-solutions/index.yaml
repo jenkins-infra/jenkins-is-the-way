@@ -42,6 +42,7 @@ body_content:
       *   Build stability; Our master build is now much more stable
 title: Jenkins is the way to improve railway signaling solutions
 date: 2021-12-28T18:36:35.000Z
+authored_by: Ciprian Mihaila
 post_name: to-improve-railway-signaling-solutions
 quotes:
   - from: Ciprian Mihaila, Software Developer
@@ -50,4 +51,3 @@ quotes:
     image: ./quote.png
 image: noun_AI_3565001.png
 tag_line: Human Interface for Railway Traffic
-submitted_by: Ciprian Mihaila

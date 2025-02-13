@@ -85,6 +85,7 @@ body_content:
       *   Teams are substantially quicker to onboard engineers into the product, since the community within our business, but also the wider Jenkins community is vibrant
 title: Jenkins is the way to provide an enterprise-grade CI/CD experience to engineers
 date: 2021-09-05T15:59:07.000Z
+authored_by: Ben Selby
 post_name: to-provide-an-enterprise-grade-ci-cd-experience-to-engineers
 quotes:
   - from: Ben Selby, Principal Engineer
@@ -96,4 +97,3 @@ quotes:
     image: ./quote.png
 image: noun_ECG_2424906.png
 tag_line: Centralized Infrastructure
-submitted_by: Ben Selby

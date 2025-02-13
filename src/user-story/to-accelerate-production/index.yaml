@@ -61,6 +61,7 @@ body_content:
       *   Ability to monitor jobs and other things in Jenkins
 title: Jenkins is the way to accelerate production
 date: 2021-08-25T13:30:39.000Z
+authored_by: Ankur Dhakar
 post_name: to-accelerate-production
 quotes:
   - from: Ankur Dhakar, Student, University of Allahabad
@@ -69,4 +70,3 @@ quotes:
     image: ./quote.png
 image: Allahabad-university_0.png
 tag_line: DevOps Tools Integration
-submitted_by: Ankur Dhakar

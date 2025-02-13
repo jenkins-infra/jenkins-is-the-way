@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Gregory Jacobs
   location: Wisconsin, USA
   industries:
     - Healthcare
-  name: Gregory Jacobs
-  latitude: "44.4488805"
-  longitude: "-88.0603806"
+  geojson: '{"type":"Point","coordinates":[-88.0603806,44.4488805]}'
 metadata:
   title: Jenkins gave this IT team the tools they needed to revamp their client's
     healthcare platform.
@@ -55,6 +54,7 @@ body_content:
       *   improved application security
 title: Jenkins is the way to build for the future
 date: 2020-08-10T17:16:42.000Z
+authored_by: Gregory Jacobs
 post_name: to-build-for-the-future
 quotes:
   - from: Gregory Jacobs, Software Architect
@@ -63,4 +63,3 @@ quotes:
     image: ./quote.png
 image: noun_Monitor_2883656-300x300.png
 tag_line: Digital Transformation in the Healthcare Industry
-submitted_by: Gregory Jacobs

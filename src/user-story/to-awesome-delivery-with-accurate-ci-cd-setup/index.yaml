@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Ashish Kumar Das
   location: India
   industries:
     - Telecomunications
-  name: Ashish Kumar Das
-  latitude: "22.572646"
-  longitude: "88.36389500000001"
+  geojson: '{"type":"Point","coordinates":[88.36389500000001,22.572646]}'
 metadata:
   title: Reduce the time spent per developer on each project by creating a modern
     CI/CD pipeline for over 100 telecommunication microservices.
@@ -73,6 +72,7 @@ body_content:
       *   High performance and delivery
 title: Jenkins is the way to awesome delivery with accurate CI/CD setup
 date: 2021-02-05T20:33:08.000Z
+authored_by: Ashish Kumar Das
 post_name: to-awesome-delivery-with-accurate-ci-cd-setup
 quotes:
   - from: Ashish Kumar Das, Senior Software Specialist, Telstra Corporation
@@ -82,4 +82,3 @@ quotes:
     image: ./quote.png
 image: telstra_logo_0.png
 tag_line: Providing World-class Features for AT\&T's Unified Communication Domain
-submitted_by: Ashish Kumar Das

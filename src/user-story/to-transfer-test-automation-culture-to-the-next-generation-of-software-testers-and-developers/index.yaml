@@ -63,6 +63,7 @@ body_content:
 title: Jenkins is the way to transfer test automation culture to the next
   generation of software testers and developers
 date: 2021-10-04T15:16:43.000Z
+authored_by: Ari Tikka
 post_name: to-transfer-test-automation-culture-to-the-next-generation-of-software-testers-and-developers
 quotes:
   - from: Ari Tikka, Senior Test Automation Specialist, TietoEVRY
@@ -71,4 +72,3 @@ quotes:
     image: ./quote.png
 image: tieto.png
 tag_line: Open Infinity
-submitted_by: Ari Tikka

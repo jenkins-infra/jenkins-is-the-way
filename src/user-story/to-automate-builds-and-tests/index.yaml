@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Jayant Sikarwar
   location: India
   industries:
     - Financial Services
-  name: Jayant Sikarwar
-  latitude: "23.1764665"
-  longitude: "75.7885163"
+  geojson: '{"type":"Point","coordinates":[75.7885163,23.1764665]}'
 metadata:
   title: Wipro engineers help Citibank ease into CI/CD to shorten development
     cycles and automate builds.
@@ -55,6 +54,7 @@ body_content:
       *   Automated and faster builds
 title: Jenkins is the way to automate builds and tests
 date: 2021-06-29T22:30:33.000Z
+authored_by: Jayant Sikarwar
 post_name: to-automate-builds-and-tests
 quotes:
   - from: Jayant Sikarwar, Technical Lead, Wipro
@@ -62,4 +62,3 @@ quotes:
     image: ./quote.png
 image: 1493738369-4564.jpg
 tag_line: Citibank EAP
-submitted_by: Jayant Sikarwar

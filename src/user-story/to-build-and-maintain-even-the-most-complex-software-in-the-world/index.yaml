@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Theodore Chaikalis
   location: Greece
   industries:
     - Government
-  name: Theodore Chaikalis
-  latitude: "40.5885408"
-  longitude: "23.0279289"
+  geojson: '{"type":"Point","coordinates":[23.0279289,40.5885408]}'
 metadata:
   title: A developer in Greece needed to deploy a robust solution covering current
     and future needs, while adapting to the changing requirements of social
@@ -72,6 +71,7 @@ body_content:
 title: Jenkins is the way to build and maintain even the most complex software
   in the world!
 date: 2021-08-07T15:41:18.000Z
+authored_by: Theodore Chaikalis
 post_name: to-build-and-maintain-even-the-most-complex-software-in-the-world
 quotes:
   - from: Theodore Chaikalis, Software Architect
@@ -79,4 +79,3 @@ quotes:
     image: ./quote.png
 image: noun_government-funding_3989919.png
 tag_line: Social Security Product
-submitted_by: Theodore Chaikalis

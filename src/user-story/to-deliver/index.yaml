@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Tomas Valentukevicius
   location: Lithuania
   industries:
     - Telecomunications
-  name: Tomas Valentukevicius
-  latitude: "54.6871555"
-  longitude: "25.2796514"
+  geojson: '{"type":"Point","coordinates":[25.2796514,54.6871555]}'
 metadata:
   title: A Nordic-based telco turns to Jenkins to get Java-based services deployed
     on Kubernetes in a way that's easy to onboard for users of Bamboo.
@@ -54,6 +53,7 @@ body_content:
       *   a familiar experience for developers coming from Bamboo
 title: Jenkins is the way to deliver
 date: 2021-01-08T18:18:52.000Z
+authored_by: Tomas Valentukevicius
 post_name: to-deliver
 quotes:
   - from: Tomas Valentukevicius, IT Architect
@@ -61,4 +61,3 @@ quotes:
     image: ./quote.png
 image: noun_deliverable_1173485.png
 tag_line: Building a Better Microservices Platform
-submitted_by: Tomas Valentukevicius

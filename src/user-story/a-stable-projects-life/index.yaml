@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Konstantin Averkiev
   location: Belarus
   industries:
     - Information Technology
-  name: Konstantin Averkiev
-  latitude: "53.9006011"
-  longitude: "27.558972"
+  geojson: '{"type":"Point","coordinates":[27.558972,53.9006011]}'
 metadata:
   title: Dealflow is a platform that runs IT competitions to pair innovative
     startups looking for help building their businesses with investors looking
@@ -62,6 +61,7 @@ body_content:
       *   issues can be highlighted, discovered, and remedied quickly
 title: Jenkins is the way to a stable project's life
 date: 2021-01-03T13:38:08.000Z
+authored_by: Konstantin Averkiev
 post_name: a-stable-projects-life
 quotes:
   - from: Konstantin Averkiev, QA Automation, Mühlemann & Popp
@@ -69,4 +69,3 @@ quotes:
     image: ./quote.png
 image: mP.png
 tag_line: "Dealflow: An IT competition for Startups"
-submitted_by: Konstantin Averkiev

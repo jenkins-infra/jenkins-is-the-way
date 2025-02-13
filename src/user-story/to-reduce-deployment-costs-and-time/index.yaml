@@ -81,6 +81,7 @@ body_content:
       *   Deploy: Once the bake is complete, Spinnaker makes the built AMI available for deployments to thousands of instances. Successful bake triggers the next stage of the Spinnaker pipeline and deploys to the test environment. Automated tests will be exercised and after these teams use customized deployment strategies like red/black, canary, or multi-region deployments.
 title: Jenkins is the way to reduce deployment costs and time
 date: 2021-09-18T14:42:55.000Z
+authored_by: Manthan Choudhury
 post_name: to-reduce-deployment-costs-and-time
 quotes:
   - from: Manthan Choudhury, Student engineer, PCCOE
@@ -91,4 +92,3 @@ quotes:
     image: ./quote.png
 image: PCOE.jpeg
 tag_line: Video Streaming Android App for a Startup
-submitted_by: Manthan Choudhury

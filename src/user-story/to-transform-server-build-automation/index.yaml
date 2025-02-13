@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Jon Wright
   location: Colorado, USA
   industries:
     - Information Technology
-  name: Jon Wright
-  latitude: "39.3722121"
-  longitude: "-104.8560902"
+  geojson: '{"type":"Point","coordinates":[-104.8560902,39.3722121]}'
 metadata:
   title: Software builds are 400% faster after automating the software production
     and the string creation process flow.
@@ -47,6 +46,7 @@ body_content:
       *   we have the ability to have the status for each step in the pipeline
 title: Jenkins is the way to transform server build automation
 date: 2021-02-12T21:11:25.000Z
+authored_by: Jon Wright
 post_name: to-transform-server-build-automation
 quotes:
   - from: Jon Wright, System Administrator
@@ -55,4 +55,3 @@ quotes:
     image: ./quote.png
 image: noun_Server_3717839.png
 tag_line: Terraform Pipeline
-submitted_by: Jon Wright

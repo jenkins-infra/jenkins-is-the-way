@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Martin Pokorny
   location: Austria
   industries:
     - Software Development
-  name: Martin Pokorny
-  latitude: "47.84637"
-  longitude: "16.52796"
+  geojson: '{"type":"Point","coordinates":[16.52796,47.84637]}'
 metadata:
   title: Shorter release cycles and easier roll-out of new projects in safer
     environments made easier with the help of Jenkins.
@@ -69,6 +68,7 @@ body_content:
       *   Inform QA department about product quality any time
 title: Jenkins is the way to make my life in the test core team great again
 date: 2021-08-18T09:00:37.000Z
+authored_by: Martin Pokorny
 post_name: to-make-my-life-in-the-test-core-team-great-again
 quotes:
   - from: Martin Pokorny, Senior Software Developer and Key Software Tester
@@ -77,4 +77,3 @@ quotes:
     image: ./quote.png
 image: noun_automation-testing_3538848.png
 tag_line: Run Tests and Verify Project Quality Before Merging in Production
-submitted_by: Martin Pokorny

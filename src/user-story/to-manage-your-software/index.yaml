@@ -29,6 +29,7 @@ body_content:
       *   No manual tasks required
 title: Jenkins is the way to manage your software
 date: 2021-09-02T14:09:38.000Z
+authored_by: Scott Meyer
 post_name: to-manage-your-software
 quotes:
   - from: Scott Meyer, Sr. Systems Analyst
@@ -37,4 +38,3 @@ quotes:
     image: ./quote.png
 image: noun_Monitor_1944924.png
 tag_line: System Administration Made Easy
-submitted_by: Scott Meyer

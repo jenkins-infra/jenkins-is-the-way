@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Jorge Hidalgo
   location: Spain
   industries:
     - Cloud Computing
-  name: Jorge Hidalgo
-  latitude: "36.721261"
-  longitude: "-4.4212655"
+  geojson: '{"type":"Point","coordinates":[-4.4212655,36.721261]}'
 metadata:
   title: This senior engineer at an enterprise consultancy sets out to provide
     better DevOps environments for clients.
@@ -81,6 +80,7 @@ body_content:
       *   Onboard new projects on existing technologies in a couple of minutes
 title: Jenkins is the way to DevOps in any technology
 date: 2021-03-14T17:36:29.000Z
+authored_by: Jorge Hidalgo
 post_name: jenkins-is-the-way-to-devops-in-any-technology
 quotes:
   - from: Jorge Hidalgo, Senior Technology Architect
@@ -89,4 +89,3 @@ quotes:
     image: ./quote.png
 image: noun_quantum-computing_2619347.png
 tag_line: Technology for the Future
-submitted_by: Jorge Hidalgo

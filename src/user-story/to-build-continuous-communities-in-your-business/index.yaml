@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: James Wasson
   location: Oklahoma, USA
   industries:
     - Energy
-  name: James Wasson
-  latitude: "35.4675602"
-  longitude: "-97.5164276"
+  geojson: '{"type":"Point","coordinates":[-97.5164276,35.4675602]}'
 metadata:
   title: Designing a CI/CD pipeline that supports automated version control and
     team collaboration was made easier using Jenkins.
@@ -49,6 +48,7 @@ body_content:
       *   faster release cadence
 title: Jenkins is the way to build continuous communities in your business
 date: 2020-07-23T15:41:43.000Z
+authored_by: James Wasson
 post_name: to-build-continuous-communities-in-your-business
 quotes:
   - from: James Wasson, Client Solutions Architect
@@ -57,4 +57,3 @@ quotes:
     image: ./quote.png
 image: noun_Fuel_1401151-300x300.png
 tag_line: Collaboration Services
-submitted_by: James Wasson

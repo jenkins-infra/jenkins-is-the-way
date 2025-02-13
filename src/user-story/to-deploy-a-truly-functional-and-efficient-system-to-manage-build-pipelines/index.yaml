@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Joseph Tole
   location: Canada
   industries:
     - Artificial Intelligence (AI)
-  name: Joseph Tole
-  latitude: "43.379898"
-  longitude: "-79.78732289999999"
+  geojson: '{"type":"Point","coordinates":[-79.78732289999999,43.379898]}'
 metadata:
   title: Using AI to help insurers transform from reactively paying for people's
     health to actively helping people manage their health.
@@ -61,6 +60,7 @@ body_content:
 title: Jenkins is the way to deploy a truly functional and efficient system to
   manage build pipelines
 date: 2021-08-02T15:24:39.000Z
+authored_by: Joseph Tole
 post_name: to-deploy-a-truly-functional-and-efficient-system-to-manage-build-pipelines
 quotes:
   - from: Joseph Tole, Senior DevOps Engineer
@@ -69,4 +69,3 @@ quotes:
     image: ./quote.png
 image: noun_Laptop_4000626.png
 tag_line: Improving Health Care
-submitted_by: Joseph Tole

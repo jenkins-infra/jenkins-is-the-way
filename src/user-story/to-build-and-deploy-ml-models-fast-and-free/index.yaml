@@ -53,6 +53,7 @@ body_content:
       *   It integrates well with GitHub
 title: Jenkins is the way to build and deploy ML models fast and free
 date: 2021-09-22T16:34:24.000Z
+authored_by: Manuel Jesús Núñez Ruiz
 post_name: to-build-and-deploy-ml-models-fast-and-free
 quotes:
   - from: Manuel Jesús Núñez Ruiz, Software Engineer Intern
@@ -61,4 +62,3 @@ quotes:
     image: ./quote.png
 image: noun_Laptop_3280209.png
 tag_line: Final University Project
-submitted_by: Manuel Jesús Núñez Ruiz

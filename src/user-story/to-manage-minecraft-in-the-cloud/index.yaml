@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Richard Staehler III
   location: Illinois, USA
   industries:
     - Gaming
-  name: Richard Staehler III
-  latitude: "42.21324990000001"
-  longitude: "-88.24768499999999"
+  geojson: '{"type":"Point","coordinates":[-88.24768499999999,42.21324990000001]}'
 metadata:
   title: Cutting costs by providing the kids with a way to play Minecraft in the
     cloud without getting a huge cloud bill from Google. All thanks to Jenkins.
@@ -80,6 +79,7 @@ body_content:
       *   checks are in place for all the different scenarios
 title: Jenkins is the way to manage Minecraft in the cloud
 date: 2020-10-19T13:58:44.000Z
+authored_by: Richard Staehler III
 post_name: to-manage-minecraft-in-the-cloud
 quotes:
   - from: Richard Staehler III, Sr. Mgr, DevSecOps, Zoro.com
@@ -87,4 +87,3 @@ quotes:
     image: ./quote.png
 image: noun_Zombie_1394634-300x300.png
 tag_line: Managing Minecraft with Jenkins
-submitted_by: Richard Staehler III

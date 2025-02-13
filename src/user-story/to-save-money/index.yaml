@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Leandro Martins
   location: Germany
   industries:
     - E-commerce & Retail
-  name: Leandro Martins
-  latitude: "48.7904472"
-  longitude: "11.4978895"
+  geojson: '{"type":"Point","coordinates":[11.4978895,48.7904472]}'
 metadata:
   title: When these technology consultants sought to reduce infrastructure costs
     and speed up time to delivery for an online retailer, they turned to
@@ -60,6 +59,7 @@ body_content:
       *   provided pipeline visualization – using Blue Ocean – which was helpful for developers
 title: Jenkins is the way to save money
 date: 2020-07-28T15:32:03.000Z
+authored_by: Leandro Martins
 post_name: to-save-money
 quotes:
   - from: Leandro Martins, DevOps Engineer
@@ -69,4 +69,3 @@ quotes:
     image: ./quote.png
 image: noun_online-shopping_1845728-300x300.png
 tag_line: Jenkins and Amazon EC2 Dynamic Agents
-submitted_by: Leandro Martins

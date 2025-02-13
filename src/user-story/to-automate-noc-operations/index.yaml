@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Alexander Leibzon
   location: Israel
   industries:
     - Advertising & Marketing
-  name: Alexander Leibzon
-  latitude: "32.084041"
-  longitude: "34.887762"
+  geojson: '{"type":"Point","coordinates":[34.887762,32.084041]}'
 metadata:
   title: A mobile performance marketing platform was struggling with a network
     operations center that was receiving trigger alerts for failed builds or
@@ -79,6 +78,7 @@ body_content:
       *   Being pipeline compatible
 title: Jenkins is the way to automate NOC operations
 date: 2020-05-14T02:02:39.000Z
+authored_by: Alexander Leibzon
 post_name: to-automate-noc-operations
 quotes:
   - from: Alexander Leibzon, Software Developer/Architect
@@ -87,4 +87,3 @@ quotes:
     image: ./quote.png
 image: noun_process_1125183-300x300.png
 tag_line: Reliable Network Operations Center with Jenkins in the AdTech Industry
-submitted_by: Alexander Leibzon

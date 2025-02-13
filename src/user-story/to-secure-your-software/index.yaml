@@ -40,6 +40,7 @@ body_content:
       *   Elimination of the need for the team to perform manual work
 title: Jenkins is the way to secure your software
 date: 2021-11-08T16:14:32.000Z
+authored_by: Chris Siv
 post_name: to-secure-your-software
 quotes:
   - from: Chris Siv, Test Engineer
@@ -47,4 +48,3 @@ quotes:
     image: ./quote.png
 image: noun_computer-security_2609874.png
 tag_line: Product Security and Jenkins
-submitted_by: Chris Siv

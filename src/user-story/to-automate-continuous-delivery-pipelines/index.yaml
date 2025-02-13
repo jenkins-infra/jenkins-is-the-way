@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Jon Brohauge
   location: Denmark
   industries:
     - Insurance
-  name: Jon Brohauge
-  latitude: "55.7957329"
-  longitude: "12.1592079"
+  geojson: '{"type":"Point","coordinates":[12.1592079,55.7957329]}'
 metadata:
   title: Leading Danish insurer chooses Jenkins as the "de facto" product to build
     their CI/CD.
@@ -74,6 +73,7 @@ body_content:
       *   containerization
 title: Jenkins is the way to automate continuous delivery pipelines
 date: 2020-10-27T14:22:58.000Z
+authored_by: Jon Brohauge
 post_name: to-automate-continuous-delivery-pipelines
 quotes:
   - from: Jon Brohauge, DevTools Engineer, Topdanmark A/S
@@ -83,4 +83,3 @@ quotes:
     image: ./quote.png
 image: topdanmark.png
 tag_line: Migrating from tightly coupled release processes to CI/CD
-submitted_by: Jon Brohauge

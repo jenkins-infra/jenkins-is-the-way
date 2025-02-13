@@ -49,6 +49,7 @@ body_content:
       *   Starting the CI/CD process
 title: Jenkins is the way to execute all my desires, AS CODE!
 date: 2021-12-08T15:23:34.000Z
+authored_by: Avishai Malka
 post_name: to-execute-all-my-desires-as-code
 quotes:
   - from: Avishai Malka, DevOps Engineer, Brix CRB
@@ -57,4 +58,3 @@ quotes:
     image: ./quote.png
 image: Screen-Shot-2021-12-06-at-10.30.52-AM.png
 tag_line: "Brix Software: Auto Deployer"
-submitted_by: Avishai Malka

@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Mary Jane Buenaventura
   location: Malaysia
   industries:
     - Information Technology
-  name: Mary Jane Buenaventura
-  latitude: "3.139003"
-  longitude: "101.686855"
+  geojson: '{"type":"Point","coordinates":[101.686855,3.139003]}'
 metadata:
   title: Deployments reduced from from 30 mins to 4.4 seconds for this IT company.
   industries:
@@ -66,6 +65,7 @@ body_content:
       *   concurrent builds help a lot on our productivity
 title: Jenkins is the way to automate and accelerate application deployment
 date: 2021-05-31T14:19:58.000Z
+authored_by: Mary Jane Buenaventura
 post_name: to-automate-and-accelerate-application-deployment
 quotes:
   - from: Mary Jane Buenaventura, Solution Architect
@@ -75,4 +75,3 @@ quotes:
     image: ./quote.png
 image: noun_Computer_3767284.png
 tag_line: Foreign Resource System
-submitted_by: Mary Jane Buenaventura

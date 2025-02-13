@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Alexis Couvreur
   location: France
   industries:
     - Information Technology
-  name: Alexis Couvreur
-  latitude: "43.58041799999999"
-  longitude: "7.125102"
+  geojson: '{"type":"Point","coordinates":[7.125102,43.58041799999999]}'
 metadata:
   title: Faster builds and automated release cycles for smoother performance and
     more control.
@@ -92,6 +91,7 @@ body_content:
       *   automated semantic versioning based on commit messages
 title: Jenkins is the way to build robust and specific pipelines
 date: 2021-02-28T13:41:20.000Z
+authored_by: Alexis Couvreur
 post_name: jenkins-is-the-way-to-build-robust-and-specific-pipelines
 quotes:
   - from: Alexis Couvreur, Software Engineer and DevOps Evangelist
@@ -100,4 +100,3 @@ quotes:
     image: ./quote.png
 image: noun_online-game_2065652.png
 tag_line: New Tournament Software with Jenkins
-submitted_by: Alexis Couvreur

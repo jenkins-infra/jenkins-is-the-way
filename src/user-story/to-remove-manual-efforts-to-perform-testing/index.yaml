@@ -70,6 +70,7 @@ body_content:
       *   Early tracking to catch a bug
 title: Jenkins is the way to remove manual efforts to perform testing
 date: 2021-11-03T16:31:32.000Z
+authored_by: Ryan Febriansyah
 post_name: to-remove-manual-efforts-to-perform-testing
 quotes:
   - from: Ryan Febriansyah, Software Engineer, AJobThing
@@ -77,4 +78,3 @@ quotes:
     image: ./quote.png
 image: c66be70b511fc11a4ad57f72dbe79975.jpg
 tag_line: Make Testing Easier
-submitted_by: Ryan Febriansyah

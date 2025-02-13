@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Joana Carneiro
   location: Portugal
   industries:
     - Telecomunications
-  name: Joana Carneiro
-  latitude: "38.7222524"
-  longitude: "-9.1393366"
+  geojson: '{"type":"Point","coordinates":[-9.1393366,38.7222524]}'
 metadata:
   title: This software development team turned to Jenkins to automate processes.
     In turn, they were able to focus on innovation.
@@ -69,6 +68,7 @@ body_content:
       *   ownership mindset growth
 title: Jenkins is the way to deliver telecom platforms around the globe
 date: 2021-04-23T14:17:16.000Z
+authored_by: Joana Carneiro
 post_name: jenkins-is-the-way-to-deliver-telecom-platforms-around-the-globe
 quotes:
   - from: Joana Carneiro, Software Developer
@@ -78,4 +78,3 @@ quotes:
     image: ./quote.png
 image: noun_Computer-Phone_1245250.png
 tag_line: Worldwide Telecom Platform
-submitted_by: Joana Carneiro

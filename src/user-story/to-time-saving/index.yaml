@@ -61,6 +61,7 @@ body_content:
       *   When we have a new service and pipeline, we can easily duplicate and create a new one by using an older one as a standard
 title: Jenkins is the way to time-saving
 date: 2021-10-17T15:46:02.000Z
+authored_by: Ali Can Kustemur
 post_name: to-time-saving
 quotes:
   - from: Ali Can Kustemur, SRE / DevOps Engineer, Modanisa
@@ -71,4 +72,3 @@ quotes:
     image: ./quote.png
 image: modanisalogotype_4x.png
 tag_line: Modanisa's New Fashion Journey
-submitted_by: Ali Can Kustemur

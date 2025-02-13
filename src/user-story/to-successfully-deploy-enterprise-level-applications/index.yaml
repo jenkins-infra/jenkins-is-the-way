@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Debobrata Bose
   location: India
   industries:
     - Financial Services
-  name: Debobrata Bose
-  latitude: "13.0218597"
-  longitude: "77.5671423"
+  geojson: '{"type":"Point","coordinates":[77.5671423,13.0218597]}'
 metadata:
   title: Integrating Jenkins with Azure pipelines to create a high performing
     CI/CD for an international bank.
@@ -87,6 +86,7 @@ body_content:
       *   Failback or failover chances are slim
 title: Jenkins is the way to successfully deploy enterprise-level applications
 date: 2021-02-28T14:35:59.000Z
+authored_by: Debobrata Bose
 post_name: to-successfully-deploy-enterprise-level-applications
 quotes:
   - from: Debobrata Bose, Developer
@@ -96,4 +96,3 @@ quotes:
     image: ./quote.png
 image: noun_Online-Banking_1569337.png
 tag_line: Jenkins + Azure = Robust CI/CD
-submitted_by: Debobrata Bose

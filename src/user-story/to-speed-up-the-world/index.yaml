@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Pablo Del Giudice
   location: Argentina
   industries:
     - Financial Services
-  name: Pablo Del Giudice
-  latitude: "-34.6036844"
-  longitude: "-58.3815591"
+  geojson: '{"type":"Point","coordinates":[-58.3815591,-34.6036844]}'
 metadata:
   title: This developer was focused on transforming DevOps architecture for a
     leading Argentinian bank.
@@ -70,6 +69,7 @@ body_content:
       *   fully automated CI + CD with Testing + Quality Gates + Artifacts Auto promotion
 title: Jenkins is the way to speed up the world!
 date: 2021-06-07T15:09:17.000Z
+authored_by: Pablo Del Giudice
 post_name: to-speed-up-the-world
 quotes:
   - from: Pablo Del Giudice, Tech Director
@@ -79,4 +79,3 @@ quotes:
     image: ./quote.png
 image: noun_bank-to-bank_3412465.png
 tag_line: DevOps Acceleration Despite An Old IT Mindset
-submitted_by: Pablo Del Giudice

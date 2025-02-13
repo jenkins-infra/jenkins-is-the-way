@@ -66,6 +66,7 @@ body_content:
       *   Jenkins can be used as a self-service portal for developers
 title: Jenkins is the way to drive your production
 date: 2021-12-04T15:18:31.000Z
+authored_by: Mickael Roger
 post_name: to-drive-your-production
 quotes:
   - from: Mickael Roger, Cloud and DevOps Tech Lead
@@ -74,4 +75,3 @@ quotes:
     image: ./quote.png
 image: noun_edit_3477760.png
 tag_line: Managing Production Events With Jenkins
-submitted_by: Mickael Roger

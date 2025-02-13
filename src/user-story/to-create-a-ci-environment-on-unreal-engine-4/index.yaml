@@ -63,6 +63,7 @@ body_content:
       *   Feedback and monitoring of my project all in one place
 title: Jenkins is the way to create a CI environment on Unreal Engine 4
 date: 2021-10-05T18:36:21.000Z
+authored_by: Alberto Mikulan
 post_name: to-create-a-ci-environment-on-unreal-engine-4
 quotes:
   - from: Alberto Mikulan, Engineer's Degree in Informatics,  Universidad Católica
@@ -73,4 +74,3 @@ quotes:
     image: ./quote.png
 image: noun_elearning_630943.png
 tag_line: "ProjectR: Video Game Based on UE4"
-submitted_by: Alberto Mikulan

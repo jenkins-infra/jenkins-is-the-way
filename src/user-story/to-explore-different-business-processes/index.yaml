@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Vlad Silverman
   location: California, USA
   industries:
     - Financial Services
-  name: Vlad Silverman
-  latitude: "37.4418834"
-  longitude: "-122.1430194"
+  geojson: '{"type":"Point","coordinates":[-122.1430194,37.4418834]}'
 metadata:
   title: Embracing continuous integration and delivery increased auto-testing by
     30% and shortened build times by 50%.
@@ -62,6 +61,7 @@ body_content:
       *   faster release cycle (from weeks to hours)
 title: Jenkins is the way to explore different business processes
 date: 2021-01-16T18:36:47.000Z
+authored_by: Vlad Silverman
 post_name: to-explore-different-business-processes
 quotes:
   - from: Vlad Silverman, DevOps Engineer
@@ -70,4 +70,3 @@ quotes:
     image: ./quote.png
 image: noun_FinTech_3047805.png
 tag_line: CI/CD Automation for FinTech & Insurance Software Development
-submitted_by: Vlad Silverman

@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Rahul Kumar
   location: India
   industries:
     - Financial Services / Payments
-  name: Rahul Kumar
-  latitude: "23.6362593"
-  longitude: "85.5124209"
+  geojson: '{"type":"Point","coordinates":[85.5124209,23.6362593]}'
 metadata:
   title: DLT Labs Company needed a way to keep builds and deploys running smoothly
     while also giving QA teams adequate time to manage software checks without
@@ -68,6 +67,7 @@ body_content:
       *   One-time effort to build which can be re-used to save time
 title: Jenkins is the way to modernize your DevOps platform
 date: 2021-08-11T15:58:13.000Z
+authored_by: Rahul Kumar
 post_name: to-modernize-your-devops-platform
 quotes:
   - from: Rahul Kumar, Sr. DevOps Engineer, DLT Labs
@@ -77,4 +77,3 @@ quotes:
     image: ./quote.png
 image: d7bec489-b819-4622-b57e-36189dd218b5_thumb.jpg
 tag_line: QA Deployments and Infra Management
-submitted_by: Rahul Kumar

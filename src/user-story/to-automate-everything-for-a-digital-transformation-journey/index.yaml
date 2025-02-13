@@ -84,6 +84,7 @@ body_content:
       *   Application SDLC has been more Agile than before
 title: Jenkins is the way to automate everything for a digital transformation journey
 date: 2021-12-06T15:08:43.000Z
+authored_by: Sachidananda Pattnaik
 post_name: to-automate-everything-for-a-digital-transformation-journey
 quotes:
   - from: Sachidananda Pattnaik, DevOps Engineer, Wipro Technologies
@@ -94,4 +95,3 @@ quotes:
     image: ./quote.png
 image: noun_Online-Banking_1907436.png
 tag_line: Payments Journey Optimization
-submitted_by: Sachidananda Pattnaik

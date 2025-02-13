@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Prudviraj Pentakota
   location: India
   industries:
     - Software Developement
-  name: Prudviraj Pentakota
-  latitude: "17.385044"
-  longitude: "78.486671"
+  geojson: '{"type":"Point","coordinates":[78.486671,17.385044]}'
 metadata:
   title: Helping customer success management teams manage customer lifecycle and
     identify and proactively respond to risks requires a faster, better DevOps
@@ -77,6 +76,7 @@ body_content:
       here.
 title: Jenkins is the way to simplify things for DevOps world
 date: 2020-07-21T15:50:41.000Z
+authored_by: Prudviraj Pentakota
 post_name: to-simplify-things-for-devops-world
 quotes:
   - from: Prudviraj Pentakota, Lead DevOps Engineer
@@ -85,4 +85,3 @@ quotes:
     image: ./quote.png
 image: noun_customer-service_542409-300x300.png
 tag_line: Improving the DevOps Practice
-submitted_by: Prudviraj Pentakota

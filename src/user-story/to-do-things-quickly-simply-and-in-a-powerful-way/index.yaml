@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Alejandro Alvarez Vazquez
   location: Portugal
   industries:
     - Travel
-  name: Alejandro Alvarez Vazquez
-  latitude: "39.5762112"
-  longitude: "2.6456729"
+  geojson: '{"type":"Point","coordinates":[2.6456729,39.5762112]}'
 metadata:
   title: The tech team at Avoris Travel sought to minimize their delivery cycle
     times. Tapping into Jenkins' vast number of plugins available, the team was
@@ -92,6 +91,7 @@ body_content:
       travel/)"
 title: Jenkins is the way to do things quickly, simply and in a powerful way
 date: 2020-05-26T23:09:24.000Z
+authored_by: Alejandro Alvarez Vazquez
 post_name: to-do-things-quickly-simply-and-in-a-powerful-way
 quotes:
   - from: Alejandro Alvarez Vazquez, Sysadmin, Avoris Travel
@@ -101,4 +101,3 @@ quotes:
     image: ./quote.png
 image: code-768x785.png
 tag_line: Speeding up CI/CD with shared volumes and more!​
-submitted_by: Alejandro Alvarez Vazquez

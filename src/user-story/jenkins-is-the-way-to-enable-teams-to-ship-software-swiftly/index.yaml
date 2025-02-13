@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Gaurav Nanda
   location: India
   industries:
     - Software Developement
-  name: Gaurav Nanda
-  latitude: "28.6862738"
-  longitude: "77.2217831"
+  geojson: '{"type":"Point","coordinates":[77.2217831,28.6862738]}'
 metadata:
   title: India-based consultancy uses a single platform to build extraordinary
     digital experiences that convert better.
@@ -81,6 +80,7 @@ body_content:
       *   Time to fix bugs reduced by 5x
 title: Jenkins is the way to enable teams to ship software swiftly
 date: 2021-07-15T22:03:30.000Z
+authored_by: Gaurav Nanda
 post_name: jenkins-is-the-way-to-enable-teams-to-ship-software-swiftly
 quotes:
   - from: Gaurav Nanda, Associate Director, consultant to VWO
@@ -90,4 +90,3 @@ quotes:
     image: ./quote.png
 image: VWO.jpg
 tag_line: VWO's Pipeline for A/B Testing
-submitted_by: Gaurav Nanda

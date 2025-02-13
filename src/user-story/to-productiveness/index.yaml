@@ -69,6 +69,7 @@ body_content:
       *   Alert system worked properly, plugins made it easier to automate things
 title: Jenkins is the way to productiveness
 date: 2021-09-06T16:10:02.000Z
+authored_by: Gajanand Singh
 post_name: to-productiveness
 quotes:
   - from: Gajanand Singh, Student, Galgotias University
@@ -78,4 +79,3 @@ quotes:
     image: ./quote.png
 image: galgotias.jpg
 tag_line: Keras + Docker + Tensorflow =< Jenkins
-submitted_by: Gajanand Singh

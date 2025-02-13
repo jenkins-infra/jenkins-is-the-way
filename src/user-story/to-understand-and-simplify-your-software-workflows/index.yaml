@@ -1,9 +1,9 @@
 ---
 map:
+  authored_by: Koen Poppe
   location: Belgium
   industries:
     - DevOps & Machine Learning
-  name: Koen Poppe
   latitude: ""
   longitude: ""
 metadata:
@@ -72,6 +72,7 @@ body_content:
       *   The build monitor screen is shown in the office, making it extra visible how the health of the software is.
 title: Jenkins is the way to automate everything repetitive, cumbersome, or laborious
 date: 2021-03-07T15:35:35.000Z
+authored_by: Koen Poppe
 post_name: to-understand-and-simplify-your-software-workflows
 quotes:
   - from: Koen Poppe, Project Engineer / Software
@@ -80,4 +81,3 @@ quotes:
     image: ./quote.png
 image: noun_Butler_130896.png
 tag_line: Safeguarding Quality Using Jenkins
-submitted_by: Koen Poppe

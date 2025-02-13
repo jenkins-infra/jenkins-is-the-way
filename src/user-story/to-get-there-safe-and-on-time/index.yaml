@@ -73,6 +73,7 @@ body_content:
       *   We are able to quickly find out when a generic feature breaks one of the customer's configurations
 title: Jenkins is the way to get there safe and on time
 date: 2021-09-15T14:54:28.000Z
+authored_by: Mircea Banu
 post_name: to-get-there-safe-and-on-time
 quotes:
   - from: Mircea Banu, Software Engineer, Thales Group
@@ -83,4 +84,3 @@ quotes:
     image: ./quote.png
 image: thales.jpg
 tag_line: "HIS: Human Machine Interface for Integrated Systems"
-submitted_by: Mircea Banu

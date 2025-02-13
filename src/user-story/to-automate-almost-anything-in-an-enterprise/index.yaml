@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Jatin Bedi
   location: California, USA
   industries:
     - Information Technology
-  name: Jatin Bedi
-  latitude: "32.715738"
-  longitude: "-117.1610838"
+  geojson: '{"type":"Point","coordinates":[-117.1610838,32.715738]}'
 metadata:
   title: Automate everything from product builds to deployment by relying on the
     many plugins available with Jenkins.
@@ -101,6 +100,7 @@ body_content:
       *   Failback or failover chances are slim
 title: Jenkins is the way to automate almost anything in an enterprise
 date: 2021-03-05T17:05:03.000Z
+authored_by: Jatin Bedi
 post_name: to-automate-almost-anything-in-an-enterprise
 quotes:
   - from: Jatin Bedi, CI/CD Consultant
@@ -111,4 +111,3 @@ quotes:
     image: ./quote.png
 image: noun_Ninja_667622.png
 tag_line: CI/CD Ninjaneers
-submitted_by: Jatin Bedi

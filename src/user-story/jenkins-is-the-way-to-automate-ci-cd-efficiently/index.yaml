@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Bibek Sutradhar
   location: India
   industries:
     - Consulting
-  name: Bibek Sutradhar
-  latitude: "22.572646"
-  longitude: "88.36389500000001"
+  geojson: '{"type":"Point","coordinates":[88.36389500000001,22.572646]}'
 metadata:
   title: This DevOps consultant set out to streamline and automate DevOps
     processes from development through production, with a Jenkins assist.
@@ -72,6 +71,7 @@ body_content:
       *   receive appreciation from clients for smooth delivery and, hence, more projects are coming in
 title: Jenkins is the way to automate CI/CD efficiently
 date: 2021-04-25T14:26:26.000Z
+authored_by: Bibek Sutradhar
 post_name: jenkins-is-the-way-to-automate-ci-cd-efficiently
 quotes:
   - from: Bibek Sutradhar, AWS Application Architect/DevOps Consultant
@@ -80,4 +80,3 @@ quotes:
     image: ./quote.png
 image: noun_Technology_1608171.png
 tag_line: Containers and Pipelines
-submitted_by: Bibek Sutradhar

@@ -71,6 +71,7 @@ body_content:
       *   Release cycles shortened from 2 weeks to every day
 title: Jenkins is the way to make electric vehicle charging possible through cloud
 date: 2021-12-14T16:11:24.000Z
+authored_by: Avinash Upadhyaya
 post_name: to-make-electric-vehicle-charging-possible-through-cloud
 quotes:
   - from: Avinash Upadhyaya, DevOps Engineer, Hashedin by Deloitte
@@ -80,4 +81,3 @@ quotes:
     image: ./quote.png
 image: uh0oxubivwifdtx2iwum.png
 tag_line: Charging Management System (CMS) for Electric Vehicles
-submitted_by: Avinash Upadhyaya

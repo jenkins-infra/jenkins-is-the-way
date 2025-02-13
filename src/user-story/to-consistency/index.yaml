@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Shauna Wright
   location: Colorado, USA
   industries:
     - Aerospace
-  name: Shauna Wright
-  latitude: "38.6726579"
-  longitude: "-104.7039872"
+  geojson: '{"type":"Point","coordinates":[-104.7039872,38.6726579]}'
 metadata:
   title: To support this aerospace and defense technology company, the engineers
     at this company transitioned to a new CI/CD pipeline which provided a single
@@ -62,6 +61,7 @@ body_content:
       *   maintain consistent build processes across multiple teams
 title: Jenkins is the way to consistency
 date: 2020-06-12T05:34:54.000Z
+authored_by: Shauna Wright
 post_name: to-consistency
 quotes:
   - from: Shauna Wright, Site Reliability Engineer
@@ -70,4 +70,3 @@ quotes:
     image: ./quote.png
 image: defense-300x300.png
 tag_line: The Road to Consistent Builds
-submitted_by: Shauna Wright

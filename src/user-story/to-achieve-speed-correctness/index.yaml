@@ -67,6 +67,7 @@ body_content:
       *   Builds are categorized by the errors & debugged easily
 title: Jenkins is the way to achieve speed & correctness
 date: 2021-09-03T15:46:28.000Z
+authored_by: Shreyas Subhedar
 post_name: to-achieve-speed-correctness
 quotes:
   - from: Shreyas Subhedar, Associate Engineer DevOps, Acquia Inc.
@@ -76,4 +77,3 @@ quotes:
     image: ./quote.png
 image: mgm-u-logo-2048x1173.png
 tag_line: Education Management System
-submitted_by: Shreyas Subhedar

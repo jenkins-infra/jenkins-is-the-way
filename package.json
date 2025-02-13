@@ -13,7 +13,9 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "format": "prettier --write \"src/**/*.{css,js,jsx,json}\"",
+    "format-check": "prettier --check \"src/**/*.{css,js,jsx,json}\""
   },
   "dependencies": {
     "cheerio": "^1.0.0",
@@ -55,6 +57,9 @@
     "graphql": "16.10.0"
   },
   "overrides": {
-    "graphql": "16.10.0"
+    "graphql": "16.10.0",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@jenkinsci/gatsby-plugin-jenkins-layout": "^1.5.0",
+    "prettier": "^3.4.2"
   }
 }

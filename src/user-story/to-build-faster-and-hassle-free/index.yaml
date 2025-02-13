@@ -62,6 +62,7 @@ body_content:
       *   Developer frustration reduced!
 title: Jenkins is the way to build faster and hassle-free
 date: 2021-10-10T15:39:23.000Z
+authored_by: Brendan Elmes
 post_name: to-build-faster-and-hassle-free
 quotes:
   - from: Brendan Elmes, Associate Engineer
@@ -69,4 +70,3 @@ quotes:
     image: ./quote.png
 image: noun_banking_3439531.png
 tag_line: Quicker Development and Publishing of Conda Packages
-submitted_by: Brendan Elmes

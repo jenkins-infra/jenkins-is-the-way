@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Nitish Chandu Oggu
   location: India
   industries:
     - Financial Services
-  name: Nitish Chandu Oggu
-  latitude: "16.3066525"
-  longitude: "80.4365402"
+  geojson: '{"type":"Point","coordinates":[80.4365402,16.3066525]}'
 metadata:
   title: A leading European bank's IT department supports a wide range of critical
     apps, projects and technologies for multiple teams of developers and
@@ -68,6 +67,7 @@ body_content:
       *   Since the Jenkins platform is used "as a service," users aren't worried about the masters, agents, and configurations. They can now focus on their development, which makes project deliverables much quicker.
 title: Jenkins is the way to manage anything and everything through pipelines
 date: 2020-05-19T01:47:12.000Z
+authored_by: Nitish Chandu Oggu
 post_name: to-manage-anything-and-everything-through-pipelines
 quotes:
   - from: Nitish Chandu Oggu
@@ -76,4 +76,3 @@ quotes:
     image: ./quote.png
 image: Bank-1024x1024.png
 tag_line: How To Implement CI-CD As A Service
-submitted_by: Nitish Chandu Oggu

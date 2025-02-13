@@ -80,6 +80,7 @@ body_content:
       *   Ultimate ease of life
 title: Jenkins is the way to give all your work and headache away
 date: 2021-10-19T15:54:59.000Z
+authored_by: Anjali Jain
 post_name: to-give-all-your-work-and-headache-away
 quotes:
   - from: Anjali Jain, DevOps Intern, Juxta Solution
@@ -89,4 +90,3 @@ quotes:
     image: ./quote.png
 image: noun_e-learning_3405230.png
 tag_line: Automating Cloud Services
-submitted_by: Anjali Jain

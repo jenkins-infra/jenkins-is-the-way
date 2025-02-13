@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Alec Rieger
   location: North Carolina, USA
   industries:
     - Infrastructure
-  name: Alec Rieger
-  latitude: "36.0974515"
-  longitude: "-79.26933919999999"
+  geojson: '{"type":"Point","coordinates":[-79.26933919999999,36.0974515]}'
 metadata:
   title: When it was time to transition from Chef cookbooks to Ansible playbooks,
     IBM used Jenkins to stay consistent across the board.
@@ -52,6 +51,7 @@ body_content:
       *   shortened development release cycles
 title: Jenkins is the way to keep IBM always-on
 date: 2020-12-21T13:34:16.000Z
+authored_by: Alec Rieger
 post_name: to-keep-ibm-always-on
 quotes:
   - from: Alec Rieger, Lead Software Engineer, IBM
@@ -60,4 +60,3 @@ quotes:
     image: ./quote.png
 image: ibm-logo-vector-download-300x300.jpg
 tag_line: IBM + AOHCS + Jenkins
-submitted_by: Alec Rieger

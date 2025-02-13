@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Yazeed AL-Smadi
   location: Jordan
   industries:
     - Healthcare
-  name: Yazeed AL-Smadi
-  latitude: "31.9539494"
-  longitude: "35.910635"
+  geojson: '{"type":"Point","coordinates":[35.910635,31.9539494]}'
 metadata:
   title: Jordan-based healthcare organization seeks a faster way to help citizens
     get treatment without physically entering a hospital, especially during the
@@ -66,6 +65,7 @@ body_content:
       *   less effort and effective time complexity
 title: Jenkins is the way to automate everything
 date: 2020-12-09T21:03:33.000Z
+authored_by: Yazeed AL-Smadi
 post_name: to-automate-everything
 quotes:
   - from: Yazeed AL-Smadi, DevOps Team Lead, Electronic Health Solutions
@@ -74,4 +74,3 @@ quotes:
     image: ./quote.png
 image: 1_6.jpg
 tag_line: EHS Automation Project
-submitted_by: Yazeed AL-Smadi

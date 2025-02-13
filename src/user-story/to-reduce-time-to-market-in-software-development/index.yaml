@@ -59,6 +59,7 @@ body_content:
       *   Faster upgrades
 title: Jenkins is the way to reduce time to market in software development
 date: 2021-09-13T14:31:15.000Z
+authored_by: Irvin Bonilla
 post_name: to-reduce-time-to-market-in-software-development
 quotes:
   - from: Irvin Bonilla, DevOps Engineer, Kairos DS
@@ -67,4 +68,3 @@ quotes:
     image: ./quote.png
 image: 1597222877885.jpeg
 tag_line: CI/CD Cross-platform for Development Software
-submitted_by: Irvin Bonilla

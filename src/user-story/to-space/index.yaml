@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Maciej Nowak
   location: Poland
   industries:
     - Aerospace
-  name: Maciej Nowak
-  latitude: "50.29449229999999"
-  longitude: "18.6713802"
+  geojson: '{"type":"Point","coordinates":[18.6713802,50.29449229999999]}'
 metadata:
   title: A satellite's onboard computer is one of the core components directly
     responsible for mission success. It's necessary to include hardware-based
@@ -132,6 +131,7 @@ body_content:
       *   Reduced waiting for free executor by using more nodes
 title: Jenkins is the way to space
 date: 2020-05-05T02:59:51.000Z
+authored_by: Maciej Nowak
 post_name: to-space
 quotes:
   - from: Maciej Nowak, Software Engineer, KP Labs
@@ -140,4 +140,3 @@ quotes:
     image: ./quote.png
 image: kp.png
 tag_line: Intuition-1 Onboard Computer Software
-submitted_by: Maciej Nowak

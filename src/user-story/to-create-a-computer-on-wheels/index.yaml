@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Garima Singh
   location: India
   industries:
     - Education
-  name: Garima Singh
-  latitude: "29.9617848"
-  longitude: "77.5569265"
+  geojson: '{"type":"Point","coordinates":[77.5569265,29.9617848]}'
 metadata:
   title: Not only is Jenkins a go-to source for enterprise companies worldwide,
     but emerging engineers have also discovered its use to be a great teaching
@@ -58,6 +57,7 @@ body_content:
       *   get a great grade on my engineering assignment
 title: Jenkins is the way to create a computer on wheels
 date: 2020-07-09T14:03:53.000Z
+authored_by: Garima Singh
 post_name: to-create-a-computer-on-wheels
 quotes:
   - from: Garima Singh, Engineering Student
@@ -68,4 +68,3 @@ quotes:
     image: ./quote.png
 image: noun_bank-300x300.png
 tag_line: Building An Engineering Portfolio
-submitted_by: Garima Singh

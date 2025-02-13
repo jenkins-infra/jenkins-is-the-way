@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Thomas Haver
   location: Ohio, USA
   industries:
     - Financial Services
-  name: Thomas Haver
-  latitude: "39.9611755"
-  longitude: "-82.99879419999991"
+  geojson: '{"type":"Point","coordinates":[-82.9987941999999,39.9611755]}'
 metadata:
   title: Consumer bank modernized their legacy system to event-driven architecture
     with help from Jenkins pipelines and plugins.
@@ -58,6 +57,7 @@ body_content:
       *   consistency
 title: Jenkins is the way to win
 date: 2021-06-12T19:57:16.000Z
+authored_by: Thomas Haver
 post_name: jenkins-is-the-way-to-win
 quotes:
   - from: Thomas Haver, Automation Architect, Banking Industry
@@ -66,4 +66,3 @@ quotes:
     image: ./quote.png
 image: noun_Online-Banking_1907436.png
 tag_line: GENM
-submitted_by: Thomas Haver

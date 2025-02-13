@@ -45,6 +45,7 @@ body_content:
 title: Jenkins is the way to maximum customization while giving developers
   no-code pipelines
 date: 2021-12-13T18:31:09.000Z
+authored_by: Daniel Steiert
 post_name: to-maximum-customization-while-giving-developers-no-code-pipelines
 quotes:
   - from: Daniel Steiert, Senior DevOps Engineer SAP Hybris
@@ -52,4 +53,3 @@ quotes:
     image: ./quote.png
 image: noun_Computer-Time_3616096.png
 tag_line: Generic and Reusable Pipeline as Code
-submitted_by: Daniel Steiert

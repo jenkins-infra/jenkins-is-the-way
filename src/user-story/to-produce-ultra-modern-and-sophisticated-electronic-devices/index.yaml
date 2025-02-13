@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Ankit Menon
   location: India
   industries:
     - Consumer Electronics
-  name: Ankit Menon
-  latitude: "12.9715987"
-  longitude: "77.5945627"
+  geojson: '{"type":"Point","coordinates":[77.5945627,12.9715987]}'
 metadata:
   title: The DevOps team at Apple had to cope with a high frequency of
     simultaneous builds which affected resources and testing.
@@ -63,6 +62,7 @@ body_content:
 title: Jenkins is the way to to produce ultra-modern and sophisticated
   electronic devices
 date: 2021-04-16T14:32:35.000Z
+authored_by: Ankit Menon
 post_name: to-produce-ultra-modern-and-sophisticated-electronic-devices
 quotes:
   - from: Ankit Menon, Senior DevOps Engineer, Apple
@@ -72,4 +72,3 @@ quotes:
     image: ./quote.png
 image: Screen-Shot-2021-04-14-at-10.35.50-AM.png
 tag_line: "Apple: Helping workforce of 5000 developers"
-submitted_by: Ankit Menon

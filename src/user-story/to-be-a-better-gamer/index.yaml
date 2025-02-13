@@ -68,6 +68,7 @@ body_content:
       *   Checks are in place for all the different scenarios
 title: Jenkins is the way to be a better gamer
 date: 2021-10-25T16:10:21.000Z
+authored_by: Ganesh Yallamelli
 post_name: to-be-a-better-gamer
 quotes:
   - from: Ganesh Yallamelli, Student
@@ -76,4 +77,3 @@ quotes:
     image: ./quote.png
 image: noun_Dog_1394679.png
 tag_line: Managing Online Gaming
-submitted_by: Ganesh Yallamelli

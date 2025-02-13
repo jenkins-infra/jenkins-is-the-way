@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Tidhar Klein Orbach
   location: Israel
   industries:
     - Advertising & Marketing
-  name: Tidhar Klein Orbach
-  latitude: "31.9730015"
-  longitude: "34.7925012"
+  geojson: '{"type":"Point","coordinates":[34.7925012,31.9730015]}'
 metadata:
   title: When a recommendation engine has to respond to hundreds of thousands of
     requests per second, there is no room for development downtime.
@@ -90,6 +89,7 @@ body_content:
       *   we're able to deploy higher amount of servers in the same or even less time, due to the Jenkins Pipeline flow
 title: Jenkins is the way to make better recommendations
 date: 2020-12-27T13:51:13.000Z
+authored_by: Tidhar Klein Orbach
 post_name: to-make-better-recommendations
 quotes:
   - from: Tidhar Klein Orbach, DevOps / Release Engineer, Taboola
@@ -98,4 +98,3 @@ quotes:
 image: 5f2Utw-U_400x400.jpg
 tag_line: "Continuous Delivery for Hardware IPHigh Scale Service Deployment:
   Taboola's Recommended Flow"
-submitted_by: Tidhar Klein Orbach

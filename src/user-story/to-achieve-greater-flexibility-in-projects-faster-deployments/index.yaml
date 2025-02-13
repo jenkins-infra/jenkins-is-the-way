@@ -79,6 +79,7 @@ body_content:
 title: Jenkins is the way to achieve greater flexibility in projects & faster
   deployments
 date: 2021-10-15T18:09:23.000Z
+authored_by: Aman Makwana
 post_name: to-achieve-greater-flexibility-in-projects-faster-deployments
 quotes:
   - from: Aman Makwana, DevOps
@@ -87,4 +88,3 @@ quotes:
     image: ./quote.png
 image: noun_Computer-Plugged_568056.png
 tag_line: Android CI/CD Final
-submitted_by: Aman Makwana

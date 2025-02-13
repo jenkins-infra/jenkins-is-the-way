@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: François Mockers
   location: France
   industries:
     - Internet of Things (IoT)
-  name: François Mockers
-  latitude: "48.991435"
-  longitude: "1.809326"
+  geojson: '{"type":"Point","coordinates":[1.809326,48.991435]}'
 metadata:
   title: This consumer electronics leader needed a way to increase the quality of
     deployed IoT software internationally.
@@ -68,6 +67,7 @@ body_content:
       *   production monitoring
 title: Jenkins is the way to guaranteed quality for your devices
 date: 2021-05-05T22:35:33.000Z
+authored_by: François Mockers
 post_name: to-guaranteed-quality-for-your-devices
 quotes:
   - from: François Mockers, QA Lead
@@ -76,4 +76,3 @@ quotes:
     image: ./quote.png
 image: noun_IoT_2297886.png
 tag_line: IoT Cloud
-submitted_by: François Mockers

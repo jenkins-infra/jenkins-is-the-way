@@ -1,8 +1,8 @@
 ---
 title: Jenkins is the way to build multi-platform NUT
 post_name: jenkins-is-the-way-for-networkupstools
-submitted_by: Jim Klimov
 date: 2022-10-02T19:59:30.309+02:00
+authored_by: Jim Klimov
 tag_line: Jenkins is the way to build multi-platform NUT, and jenkinsfile-dynamatrix is the way to find what can be built today
 image: jenkins-nut-large-squared.png
 metadata:
@@ -30,10 +30,9 @@ metadata:
     - Yes
 quotes: []
 map:
-  name: Jim Klimov
+  authored_by: Jim Klimov
   location: Prague, CZ
-  latitude: "50.0755"
-  longitude: "14.4378"
+  geojson: '{"type":"Point","coordinates":[14.4378,50.0755]}'
 body_content:
   title: Jenkins is the way to build multi-platform NUT, and
     jenkinsfile-dynamatrix is the way to find what can be built today

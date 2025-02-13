@@ -47,6 +47,7 @@ body_content:
       *   a fully-functional continuous integration platform
 title: Jenkins is the way to access the best open source tool
 date: 2021-12-20T17:42:08.000Z
+authored_by: Antoine Pritzy
 post_name: to-access-the-best-open-source-tool
 quotes:
   - from: Antoine Pritzy, Jenkins Administrator, Vetoquinol
@@ -55,4 +56,3 @@ quotes:
     image: ./quote.png
 image: noun_edit_3477760.png
 tag_line: Continuous Integration Platform
-submitted_by: Antoine Pritzy

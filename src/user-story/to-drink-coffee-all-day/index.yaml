@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Alex Kondrashov
   location: Israel
   industries:
     - Education
-  name: Alex Kondrashov
-  latitude: "31.9730015"
-  longitude: "34.7925013"
+  geojson: '{"type":"Point","coordinates":[34.7925013,31.9730015]}'
 metadata:
   title: Saving time and fixing an Azure bug with Jenkins pipeline.
   company: "CET, <https://home.cet.ac.il/>; **Project** **website** :
@@ -63,6 +62,7 @@ body_content:
       *   saved me a full day of work!
 title: Jenkins is the way to drink coffee all day
 date: 2021-03-10T17:21:19.000Z
+authored_by: Alex Kondrashov
 post_name: to-drink-coffee-all-day
 quotes:
   - from: Alex Kondrashov, DevOps
@@ -71,4 +71,3 @@ quotes:
     image: ./quote.png
 image: center_for_educational_technology.png
 tag_line: Hook Automation
-submitted_by: Alex Kondrashov

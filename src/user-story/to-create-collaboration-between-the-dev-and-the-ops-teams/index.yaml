@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Kuldeep Sharma
   location: India
   industries:
     - Financial Services
-  name: Kuldeep Sharma
-  latitude: "31.41875989999999"
-  longitude: "76.6427152"
+  geojson: '{"type":"Point","coordinates":[76.6427152,31.41875989999999]}'
 metadata:
   title: Automating manual development activities with Jenkins.
   organization: International digital agency serving a large roster of global clients
@@ -81,6 +80,7 @@ body_content:
       changes for automation in existing processes.
 title: Jenkins is the way to create collaboration between the Dev and the Ops teams
 date: 2020-10-15T14:06:36.000Z
+authored_by: Kuldeep Sharma
 post_name: to-create-collaboration-between-the-dev-and-the-ops-teams
 quotes:
   - from: Kuldeep Sharma, DevOps Lead
@@ -89,4 +89,3 @@ quotes:
     image: ./quote.png
 image: noun_collaboration_2323215-768x768.png
 tag_line: Avoiding Human Error
-submitted_by: Kuldeep Sharma

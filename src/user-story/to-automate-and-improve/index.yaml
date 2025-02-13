@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Andreas Schwarzkopf
   location: Germany
   industries:
     - Automotive
-  name: Andreas Schwarzkopf
-  latitude: "48.2253313"
-  longitude: "10.1012701"
+  geojson: '{"type":"Point","coordinates":[10.1012701,48.2253313]}'
 metadata:
   title: This consultant opted to build a unique Jenkins instance to support the
     creation of an in-vehicle infotainment system.
@@ -70,6 +69,7 @@ body_content:
       *   reliable and fast releases
 title: Jenkins is the way to automate and improve
 date: 2020-09-01T16:18:14.000Z
+authored_by: Andreas Schwarzkopf
 post_name: to-automate-and-improve
 quotes:
   - from: Andreas Schwarzkopf, Integration and Test Engineer
@@ -78,4 +78,3 @@ quotes:
     image: ./quote.png
 image: noun_computer-diagnostics_1861741-1024x1024.png
 tag_line: World's Leading Automakers Rely on CI and Testing with Jenkins
-submitted_by: Andreas Schwarzkopf

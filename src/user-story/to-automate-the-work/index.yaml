@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Vilsi Jain
   location: India
   industries:
     - Technology
-  name: Vilsi Jain
-  latitude: "26.012373"
-  longitude: "76.3560109"
+  geojson: '{"type":"Point","coordinates":[76.3560109,26.012373]}'
 metadata:
   title: Student shares his Linux World India project leveraging Jenkins with a
     focus on automation of web page load time.
@@ -67,6 +66,7 @@ body_content:
       *   worked earlier
 title: Jenkins is the way to automate the work
 date: 2021-08-15T13:32:33.000Z
+authored_by: Vilsi Jain
 post_name: to-automate-the-work
 quotes:
   - from: Vilsi Jain, Student, Jaipur Engineering College and Research Centre
@@ -75,4 +75,3 @@ quotes:
     image: ./quote.png
 image: 1_2ygK0klHWoYoqX_MKicA1g.jpeg
 tag_line: Automation of Web Page Deployment
-submitted_by: Vilsi Jain

@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Amandep Singh
   location: India
   industries:
     - Telecomunications
-  name: Amandep Singh
-  latitude: "30.7311236"
-  longitude: "76.825458"
+  geojson: '{"type":"Point","coordinates":[76.825458,30.7311236]}'
 metadata:
   title: This India-based IT services organization stepped up to help a leading
     telecom company expand their Jenkins pipeline.
@@ -49,6 +48,7 @@ body_content:
       *   improved product quality
 title: Jenkins is the way to create an awesome pipeline
 date: 2020-07-14T13:54:24.000Z
+authored_by: Amandep Singh
 post_name: jenkins-is-the-way-to-create-an-awesome-pipeline
 quotes:
   - from: Amandep Singh, Senior Engineer
@@ -57,4 +57,3 @@ quotes:
     image: ./quote.png
 image: noun_Telephone_2627962-300x300.png
 tag_line: Enabling microservices for a large telecom
-submitted_by: Amandep Singh

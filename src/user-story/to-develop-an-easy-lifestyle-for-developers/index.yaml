@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Shivanshu Sharma
   location: India
   industries:
     - DevOps Automation
-  name: Shivanshu Sharma
-  latitude: "32.2733352"
-  longitude: "75.6522066"
+  geojson: '{"type":"Point","coordinates":[75.6522066,32.2733352]}'
 metadata:
   title: This DevOps intern set out to learn how to use Jenkins and all that it
     has to offer.
@@ -68,6 +67,7 @@ body_content:
       *   Fewer processes to be run simultaneously
 title: Jenkins is the way to develop an easy lifestyle for developers
 date: 2021-02-18T15:57:32.000Z
+authored_by: Shivanshu Sharma
 post_name: to-develop-an-easy-lifestyle-for-developers
 quotes:
   - from: Shivanshu Sharma, DevOps Intern
@@ -76,4 +76,3 @@ quotes:
     image: ./quote.png
 image: noun_User_1801578.png
 tag_line: Automated Web Development Environment
-submitted_by: Shivanshu Sharma

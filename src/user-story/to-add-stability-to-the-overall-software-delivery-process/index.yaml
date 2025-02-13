@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Ajit Gunge
   location: India
   industries:
     - Telecomunications
-  name: Ajit Gunge
-  latitude: "18.5292922"
-  longitude: "73.87424659999999"
+  geojson: '{"type":"Point","coordinates":[73.87424659999999,18.5292922]}'
 metadata:
   title: With the task to improve workflow efficiencies for a telco provider, the
     team at Virtusa used Jenkins to do just that. Now build times are 10x faster
@@ -63,6 +62,7 @@ body_content:
       *   End-users report overall quality of the software has increased and is more bug free\*\*
 title: Jenkins is the way to add stability to the overall software delivery process
 date: 2020-08-08T19:29:18.000Z
+authored_by: Ajit Gunge
 post_name: to-add-stability-to-the-overall-software-delivery-process
 quotes:
   - from: Ajit Gunge, Lead Consultant, Virtusa
@@ -72,4 +72,3 @@ quotes:
     image: ./quote.png
 image: virtusa-300x300.jpg
 tag_line: Building a Workflow Management System for a Telecom Giant
-submitted_by: Ajit Gunge

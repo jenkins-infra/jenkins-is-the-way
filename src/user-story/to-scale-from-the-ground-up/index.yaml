@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Francisco De Lucas
   location: Spain
   industries:
     - Financial Services
-  name: Francisco De Lucas
-  latitude: "40.4167754"
-  longitude: "-3.7037902"
+  geojson: '{"type":"Point","coordinates":[-3.7037902,40.4167754]}'
 metadata:
   title: With the mission to simplify and innovate credit card processing, Tymit's
     development team sought to make their CI/CD more powerful with the help of
@@ -88,6 +87,7 @@ body_content:
       >](https://jenkinsistheway.io/case-studies/tymit/)"
 title: Jenkins is the way to scale from the ground up
 date: 2020-05-21T01:18:13.000Z
+authored_by: Francisco De Lucas
 post_name: to-scale-from-the-ground-up
 quotes:
   - from: Francisco De Lucas. Principal Software Engineer, Tymit
@@ -96,4 +96,3 @@ quotes:
     image: ./quote.png
 image: zprvgl7erzquy50vv7bd.png
 tag_line: Agile, Adaptable CI/CD in the Financial Industry
-submitted_by: Francisco De Lucas

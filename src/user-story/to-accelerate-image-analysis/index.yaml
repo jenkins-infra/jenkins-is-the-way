@@ -47,6 +47,7 @@ body_content:
       *   the first step to CI in our company
 title: Jenkins is the way to accelerate image analysis
 date: 2021-09-30T14:29:22.000Z
+authored_by: Thomas Goigoux
 post_name: to-accelerate-image-analysis
 quotes:
   - from: Thomas Goigoux, Software Engineer, AKKA I&S
@@ -55,4 +56,3 @@ quotes:
     image: ./quote.png
 image: THOMAS.jpeg
 tag_line: AI-powered Image Segmentation and Labeling
-submitted_by: Thomas Goigoux

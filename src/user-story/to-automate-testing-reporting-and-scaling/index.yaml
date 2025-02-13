@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Anand Bhagwat
   location: India
   industries:
     - Artificial Intelligence (AI)
-  name: Anand Bhagwat
-  latitude: "18.5204303"
-  longitude: "73.8567437"
+  geojson: '{"type":"Point","coordinates":[73.8567437,18.5204303]}'
 metadata:
   title: Using Jenkins, this AI-software company learned how to automate load
     testing and functional testing as part of their continuous integration and
@@ -80,6 +79,7 @@ body_content:
       *   ability to provide faster feedback using Jenkins integration
 title: Jenkins is the way to automate testing, reporting and scaling
 date: 2020-07-07T15:36:30.000Z
+authored_by: Anand Bhagwat
 post_name: to-automate-testing-reporting-and-scaling
 quotes:
   - from: Anand Bhagwat, QA Automation Engineer
@@ -87,4 +87,3 @@ quotes:
     image: ./quote.png
 image: noun_AI-KNOWLEDGE_1869999-300x300.png
 tag_line: Automation of LoadRunner Functional Testing With Jenkins
-submitted_by: Anand Bhagwat

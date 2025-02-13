@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Cyril Tavian
   location: France
   industries:
     - Automotive
-  name: Cyril TAVIAN
-  latitude: "49.025453"
-  longitude: "3.026478"
+  geojson: '{"type":"Point","coordinates":[3.026478,49.025453]}'
 metadata:
   title: For the creation of this online automotive marketplace, a dynamic, stable
     infrastructure was a key driver.
@@ -73,6 +72,7 @@ body_content:
       *   simplified validation circuit, the deployment of the deliverable is now possible in one day instead of three on all of our environments (integration, validation, and production)
 title: Jenkins is the way to revolutionize the integration of new technologies
 date: 2020-11-23T14:40:37.000Z
+authored_by: Cyril Tavian
 post_name: to-revolutionize-the-integration-of-new-technologies
 quotes:
   - from: Cyril Tavian, DevOps Consultant
@@ -82,4 +82,3 @@ quotes:
 image: noun_Car-Diagnostic_2600088-768x768.png
 tag_line: Providing Desktop and Mobile E-commerce Solutions for Automobile and
   Retail Sectors
-submitted_by: Cyril Tavian

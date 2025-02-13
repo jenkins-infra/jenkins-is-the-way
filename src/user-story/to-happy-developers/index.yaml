@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Alan Waite
   location: Pennsylvania, USA
   industries:
     - Robotics
-  name: Alan Waite
-  latitude: "40.44062479999999"
-  longitude: "-79.9958864"
+  geojson: '{"type":"Point","coordinates":[-79.9958864,40.44062479999999]}'
 metadata:
   title: The team at IAM Robotics used Jenkins to improve testing efficiency. This
     resulted in a deployment process that is 8 times faster and development
@@ -64,6 +63,7 @@ body_content:
       *   happier developers\*\*
 title: Jenkins is the way to happy developers
 date: 2020-08-06T17:58:36.000Z
+authored_by: Alan Waite
 post_name: to-happy-developers
 quotes:
   - from: Alan Waite, Test Engineer, IAM Robotics
@@ -72,4 +72,3 @@ quotes:
     image: ./quote.png
 image: iamrobitcs.png
 tag_line: Robotic Continuous Integration and Testing through Jenkins
-submitted_by: Alan Waite

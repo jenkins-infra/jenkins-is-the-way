@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Brijnandan Singh Chauhan
   location: India
   industries:
     - Telecomunications
-  name: Brijnandan Singh Chauhan
-  latitude: "30.3738609"
-  longitude: "78.4324809"
+  geojson: '{"type":"Point","coordinates":[78.4324809,30.3738609]}'
 metadata:
   title: India-based development teams for a global telecommunications company
     find build and deploy efficiencies thanks to Jenkins CI/CD.
@@ -92,6 +91,7 @@ body_content:
 title: Jenkins is the way to make a project successful without wasting time on
   unwanted manual efforts
 date: 2020-11-29T15:12:39.000Z
+authored_by: Brijnandan Singh Chauhan
 post_name: to-make-a-project-successful-without-wasting-time-on-unwanted-manual-efforts-2
 quotes:
   - from: Brijnandan Singh Chauhan, Lead Software Engineer
@@ -101,4 +101,3 @@ quotes:
     image: ./quote.png
 image: noun_efficiency_2754532-768x768.png
 tag_line: Microservices Automation for Telecom Project
-submitted_by: Brijnandan Singh Chauhan

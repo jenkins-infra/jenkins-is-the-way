@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Gabriel Poret
   location: France
   industries:
     - Energy
-  name: Gabriel Poret
-  latitude: "44.769478"
-  longitude: "-0.311523"
+  geojson: '{"type":"Point","coordinates":[-0.311523,44.769478]}'
 metadata:
   title: The division of French energy leader Consoneo that focuses on subsidy and
     facility management needed to transition to a CICD solution that improved
@@ -64,6 +63,7 @@ body_content:
       *   Piloting and metrics facilities
 title: Jenkins is the way to link deliverability and quality
 date: 2021-06-27T19:30:54.000Z
+authored_by: Gabriel Poret
 post_name: to-link-deliverability-and-quality
 quotes:
   - from: Gabriel Poret, Chief Technology Officer, Consoneo
@@ -74,4 +74,3 @@ quotes:
     image: ./quote.png
 image: Logo_Consoneo_sans_baseline_petit.png
 tag_line: Consoneo CI // Bluspark CI/CD
-submitted_by: Gabriel Poret

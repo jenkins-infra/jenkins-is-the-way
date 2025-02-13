@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Eric Courville
   location: California, USA
   industries:
     - Information Technology
-  name: Eric Courville
-  latitude: "38.6857367"
-  longitude: "-121.082167"
+  geojson: '{"type":"Point","coordinates":[-121.082167,38.6857367]}'
 metadata:
   title: Corporate environments in financial services can be rigid and slow to
     change. This solution architect introduced Jenkins to speed things up.
@@ -63,6 +62,7 @@ body_content:
       *   the project timeline was pulled in by months due to the flexible processes that were created
 title: Jenkins is the way to save the day
 date: 2021-05-07T22:40:58.000Z
+authored_by: Eric Courville
 post_name: to-save-the-day
 quotes:
   - from: Eric Courville, Solution Architect
@@ -71,4 +71,3 @@ quotes:
     image: ./quote.png
 image: noun_Business-Consulting_2752963.png
 tag_line: Automation Enabler
-submitted_by: Eric Courville

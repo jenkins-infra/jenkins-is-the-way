@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Mohammad Hanif
   location: Indonesia
   industries:
     - Engineering
-  name: Mohammad Hanif
-  latitude: "-7.919016900000001"
-  longitude: "110.3785438"
+  geojson: '{"type":"Point","coordinates":[110.3785438,-7.919016900000001]}'
 metadata:
   title: When it was time to build a more efficient automated platform to support
     rapid app development, the engineers at this Jakarta-based Fintech software
@@ -58,6 +57,7 @@ body_content:
       *   testing has shown that we have minimize defects before deployment
 title: Jenkins is the way to easy development
 date: 2021-02-01T19:44:52.000Z
+authored_by: Mohammad Hanif
 post_name: to-easy-development
 quotes:
   - from: Mohammad Hanif, DevOps Engineer
@@ -66,4 +66,3 @@ quotes:
     image: ./quote.png
 image: noun_ecommerce_3185946.png
 tag_line: Digital Transformation for eCommerce Clients in Indonesia
-submitted_by: Mohammad Hanif

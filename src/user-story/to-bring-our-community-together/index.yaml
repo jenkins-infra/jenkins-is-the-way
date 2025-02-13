@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Aidan Moriarty
   location: France
   industries:
     - Digital Technology Provider
-  name: Aidan Moriarty
-  latitude: "43.42519"
-  longitude: "6.76837"
+  geojson: '{"type":"Point","coordinates":[6.76837,43.42519]}'
 metadata:
   title: Dell Technologies brought together a disparate group of developers who
     became a cohesive team by using Jenkins.
@@ -87,6 +86,7 @@ body_content:
       *   Teams are more self-empowered to provision and support their own builds
 title: Jenkins is the way to bring our community together
 date: 2021-04-15T22:24:46.000Z
+authored_by: Aidan Moriarty
 post_name: to-bring-our-community-together
 quotes:
   - from: Aidan Moriarty, Senior Principal Engineer, Dell Technologies
@@ -97,4 +97,3 @@ quotes:
     image: ./quote.png
 image: dell-logo-1.jpg
 tag_line: "NEBULA: New Build Infrastructure for All"
-submitted_by: Aidan Moriarty

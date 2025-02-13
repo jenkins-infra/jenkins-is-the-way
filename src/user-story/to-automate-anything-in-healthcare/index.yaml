@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Vishal VR Gowda
   location: India
   industries:
     - Healthcare
-  name: Vishal VR Gowda
-  latitude: "13.3378762"
-  longitude: "77.117325"
+  geojson: '{"type":"Point","coordinates":[77.117325,13.3378762]}'
 metadata:
   title: Making the world healthier, cleaner and safer starts with automated
     processes in software development.
@@ -62,6 +61,7 @@ body_content:
       *   automation of so many tasks made the lives of our developers easier
 title: Jenkins is the way to to automate anything in healthcare
 date: 2021-03-05T15:46:54.000Z
+authored_by: Vishal VR Gowda
 post_name: to-automate-anything-in-healthcare
 quotes:
   - from: Vishal VR Gowda, Software Engineer
@@ -71,4 +71,3 @@ quotes:
     image: ./quote.png
 image: noun_DNA_3236084.png
 tag_line: Simpliflying DNA Sequencing Analysis Through Streamlined DevOps
-submitted_by: Vishal VR Gowda

@@ -1,0 +1,16 @@
+.map-container {
+  height: calc(100vh - 150px);
+  margin-bottom: 20px;
+}
+
+.leaflet-map {
+  height: 100%;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+@media (max-width: 768px) {
+  .map-container {
+    height: calc(100vh - 200px);
+  }
+}

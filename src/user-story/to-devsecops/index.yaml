@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Canux Cheng
   location: China
   industries:
     - Network Security
-  name: Canux Cheng
-  latitude: "31.259822"
-  longitude: "121.525727"
+  geojson: '{"type":"Point","coordinates":[121.525727,31.259822]}'
 metadata:
   title: A cumbersome legacy process for building, testing and releasing software
     is a huge challenge for a global cybersecurity company that has to stay
@@ -96,6 +95,7 @@ body_content:
       *   Jenkins status is always visible in case a server or service goes down
 title: Jenkins is the way to DevSecOps
 date: 2020-06-04T17:21:43.000Z
+authored_by: Canux Cheng
 post_name: to-devsecops
 quotes:
   - from: Canux Cheng, Software Engineer
@@ -104,4 +104,3 @@ quotes:
     image: ./quote.png
 image: noun_cybersecurity-website-protection_2689814-300x300.png
 tag_line: Cybersecurity CI/CD
-submitted_by: Canux Cheng

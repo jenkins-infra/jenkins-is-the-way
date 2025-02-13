@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Johannes Mayer
   location: Germany
   industries:
     - Binary Translation
-  name: Johannes Mayer
-  latitude: "48.1351253"
-  longitude: "11.5819806"
+  geojson: '{"type":"Point","coordinates":[11.5819806,48.1351253]}'
 metadata:
   title: A German developer finds that Jenkins aids in binary translations by
     providing a deployment process that is automatic and fast.
@@ -55,6 +54,7 @@ body_content:
       *   much less frustration, since (nearly) no manual labor was required
 title: Jenkins is the way to write awesome code
 date: 2020-12-14T23:14:54.000Z
+authored_by: Johannes Mayer
 post_name: to-write-awesome-code
 quotes:
   - from: Johannes Mayer, Senior Software Developer
@@ -62,4 +62,3 @@ quotes:
     image: ./quote.png
 image: noun_decode_2311447-768x768.png
 tag_line: Versatile Binary Translation for New Hardware Systems
-submitted_by: Johannes Mayer

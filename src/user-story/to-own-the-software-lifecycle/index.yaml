@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Vijay Sundar V
   location: India
   industries:
     - Network Communications
-  name: Vijay Sundar V
-  latitude: "12.9158691"
-  longitude: "80.17338339999999"
+  geojson: '{"type":"Point","coordinates":[80.17338339999999,12.9158691]}'
 metadata:
   title: Faster deployments and reliable DevOps insight for this leading
     communications company.
@@ -77,6 +76,7 @@ body_content:
       *   no confusion
 title: Jenkins is the way to own the software lifecycle
 date: 2021-03-22T18:31:29.000Z
+authored_by: Vijay Sundar V
 post_name: to-own-the-software-lifecycle
 quotes:
   - from: Vijay Sundar V Technical Specialist, DevOps
@@ -85,4 +85,3 @@ quotes:
     image: ./quote.png
 image: noun_visible_1551071.png
 tag_line: Building Network Insight Artifacts
-submitted_by: Vijay Sundar V

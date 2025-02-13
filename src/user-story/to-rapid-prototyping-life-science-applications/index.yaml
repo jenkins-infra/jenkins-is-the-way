@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Ioannis Moutsatsos
   location: Massachusetts, USA
   industries:
     - Medical Research
-  name: Ioannis K. Moutsatsos
-  latitude: "42.4153925"
-  longitude: "-71.1564729"
+  geojson: '{"type":"Point","coordinates":[-71.1564729,42.4153925]}'
 metadata:
   title: Novartis found that rapid prototyping with Jenkins provides guidance and
     requirements for building successful research enterprise apps in a fraction
@@ -89,6 +88,7 @@ body_content:
       *   Faster development cycle
 title: Jenkins is the way to rapid prototyping life science applications
 date: 2021-07-21T12:35:59.000Z
+authored_by: Ioannis Moutsatsos
 post_name: to-rapid-prototyping-life-science-applications
 quotes:
   - from: Ioannis Moutsatsos, AD & Senior Principal, Data Science, Novartis
@@ -100,4 +100,3 @@ quotes:
     image: ./quote.png
 image: novartis-logo.jpg
 tag_line: Life Sciences Continuous Integration
-submitted_by: Ioannis Moutsatsos

@@ -51,6 +51,7 @@ body_content:
       *   Build logs and deployment of URL exposed features to GitHub
 title: Jenkins is the way to create temporary review application via full automation
 date: 2021-12-26T18:19:12.000Z
+authored_by: Aditya Soni
 post_name: to-create-temporary-review-application-via-full-automation
 quotes:
   - from: Aditya Soni, Cloud Engineer, Searce
@@ -60,4 +61,3 @@ quotes:
     image: ./quote.png
 image: noun_Workflow_2284479.png
 tag_line: Making Review Application With Jenkins
-submitted_by: Aditya Soni

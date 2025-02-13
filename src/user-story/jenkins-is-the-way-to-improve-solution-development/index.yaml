@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Anthony Alberto Alcala Beltran
   location: Peru
   industries:
     - Information Technology
-  name: Anthony Alberto Alcala Beltran
-  latitude: "-12.0463731"
-  longitude: "-77.042754"
+  geojson: '{"type":"Point","coordinates":[-77.042754,-12.0463731]}'
 metadata:
   title: DevOps team working for a Peru-based digital services company that
     provides disruptive solutions for business, needed to reimagine their
@@ -67,6 +66,7 @@ body_content:
       *   automate the process to deploy the code between multiple environment
 title: Jenkins is the way to improve solution development
 date: 2021-05-22T23:53:29.000Z
+authored_by: Anthony Alberto Alcala Beltran
 post_name: jenkins-is-the-way-to-improve-solution-development
 quotes:
   - from: Anthony Alberto Alcala Beltran, DevOps Engineer
@@ -75,4 +75,3 @@ quotes:
     image: ./quote.png
 image: noun_Alert_2805730.png
 tag_line: Alert Management
-submitted_by: Anthony Alberto Alcala Beltran

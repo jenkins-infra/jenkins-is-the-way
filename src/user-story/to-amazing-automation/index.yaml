@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Mitchell Locktree
   location: Netherlands
   industries:
     - Semiconductors
-  name: Mitchell Locktree
-  latitude: "52.1319071"
-  longitude: "5.0171019"
+  geojson: '{"type":"Point","coordinates":[5.0171019,52.1319071]}'
 metadata:
   title: Managing the integration, transformation and process automatization of
     semiconductor software development for a team of 100+ developers.
@@ -55,6 +54,7 @@ body_content:
       *   faster feedback to development teams
 title: Jenkins is the way to amazing automation
 date: 2021-02-08T20:42:15.000Z
+authored_by: Mitchell Locktree
 post_name: to-amazing-automation
 quotes:
   - from: Mitchell Locktree, Integrator / Semiconductor software
@@ -63,4 +63,3 @@ quotes:
     image: ./quote.png
 image: noun_IC-Chip_3405060-300x300.png
 tag_line: One-button Integration in Software Facilities for a Semiconductor Leader
-submitted_by: Mitchell Locktree

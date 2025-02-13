@@ -81,6 +81,7 @@ body_content:
       *   Docker and Kubernetes deployment without fear for teams
 title: Jenkins is the way to fast production deployment
 date: 2021-10-13T18:02:26.000Z
+authored_by: Membré Guillaume
 post_name: to-fast-production-deployment
 quotes:
   - from: Membré Guillaume, DevOps Engineer
@@ -89,4 +90,3 @@ quotes:
     image: ./quote.png
 image: noun_edit_3477760.png
 tag_line: CI/CD at Scale
-submitted_by: Membré Guillaume

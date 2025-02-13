@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Saikat Das
   location: India
   industries:
     - Telecomunications
-  name: Saikat Das
-  latitude: "22.34601"
-  longitude: "87.2319753"
+  geojson: '{"type":"Point","coordinates":[87.2319753,22.34601]}'
 metadata:
   title: IBM helped Vodafone transform telecom applications from on-premise to the
     IBM and shaved expenses off the budget by automating continuous integration
@@ -91,6 +90,7 @@ body_content:
       *   Helped deployment of official Vodafone Ireland portal
 title: Jenkins is the way to migrate telecom applications to the cloud
 date: 2021-06-25T19:18:53.000Z
+authored_by: Saikat Das
 post_name: to-migrate-telecom-applications-to-the-cloud
 quotes:
   - from: Saikat Das, Senior DevOps Engineer, IBM
@@ -102,4 +102,3 @@ quotes:
     image: ./quote.png
 image: vodafone.png
 tag_line: Telecom Legacy Application Migration
-submitted_by: Saikat Das

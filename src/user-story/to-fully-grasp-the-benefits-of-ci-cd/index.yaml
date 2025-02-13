@@ -56,6 +56,7 @@ body_content:
       *   A better, more comprehensive feedback for the development team
 title: Jenkins is the way to fully grasp the benefits of CI/CD
 date: 2021-12-24T18:10:01.000Z
+authored_by: Elena Condurachi
 post_name: to-fully-grasp-the-benefits-of-ci-cd
 quotes:
   - from: Elena Condurachi, Tech Lead
@@ -65,4 +66,3 @@ quotes:
     image: ./quote.png
 image: noun_Monitor_1944924.png
 tag_line: Educational Ecosystem and Jenkins
-submitted_by: Elena Condurachi

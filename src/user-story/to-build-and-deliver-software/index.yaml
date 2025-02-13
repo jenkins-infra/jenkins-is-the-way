@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Amit Dar
   location: Israel
   industries:
     - Defense Technology
-  name: Amit Dar
-  latitude: "32.068424"
-  longitude: "34.824785"
+  geojson: '{"type":"Point","coordinates":[34.824785,32.068424]}'
 metadata:
   title: The C4isr development project was conceived to support a multi-location,
     multilingual technology organization that needed a platform that would
@@ -67,6 +66,7 @@ body_content:
       *   project confidence
 title: Jenkins is the way to build and deliver software
 date: 2020-06-09T14:09:24.000Z
+authored_by: Amit Dar
 post_name: to-build-and-deliver-software
 quotes:
   - from: Amit Dar, DevOps Team Leader
@@ -74,4 +74,3 @@ quotes:
     image: ./quote.png
 image: Global-Defense-Technology-Company-300x300.png
 tag_line: C4isr
-submitted_by: Amit Dar

@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Bhargav Murarisetty
   location: India
   industries:
     - Software Developement
-  name: Bhargav Murarisetty
-  latitude: "18.4654154"
-  longitude: "73.785494"
+  geojson: '{"type":"Point","coordinates":[73.785494,18.4654154]}'
 metadata:
   title: Amdocs found a way to save money and time, and unify two disparate teams,
     with Jenkins.
@@ -59,6 +58,7 @@ body_content:
       3.  Zero additional cost, PowerPlatform comes free with an Office365 License.
 title: Jenkins is the way to long term automation strategies
 date: 2021-06-24T20:36:35.000Z
+authored_by: Bhargav Murarisetty
 post_name: to-long-term-automation-strategies
 quotes:
   - from: Bhargav Murarisetty, Sr.Automation Test Engineer, Amdocs
@@ -69,4 +69,3 @@ quotes:
     image: ./quote.png
 image: amdocs.png
 tag_line: Run On-Premise Jenkins Pipelines From Mobile App
-submitted_by: Bhargav Murarisetty

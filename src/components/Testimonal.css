@@ -1,26 +1,25 @@
-  .testimonal .attribution {
-    color: black;
-    font-weight: bold;
-  }
+.testimonal .attribution {
+  color: black;
+  font-weight: bold;
+}
 
-  .testimonal .attribution img {
-    margin-left: 10px;
-    margin-right: 10px;
-  }
+.testimonal .attribution img {
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
-  .testimonal blockquote {
-    background-color: inherit;
-    border: 0;
-    color: #6c8995;
-    font-size: 16px;
-  }
+.testimonal blockquote {
+  background-color: inherit;
+  border: 0;
+  color: #6c8995;
+  font-size: 16px;
+}
 
-  .testimonal img {
-    display: inline-block;
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    object-fit: cover;
-    max-width: none;
-  }
-
+.testimonal img {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  max-width: none;
+}

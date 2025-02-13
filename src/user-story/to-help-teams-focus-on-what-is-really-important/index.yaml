@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Eduardo Mandry
   location: Chile
   industries:
     - Financial Services
-  name: Eduardo Mandry
-  latitude: "-33.4488897"
-  longitude: "-70.6692655"
+  geojson: '{"type":"Point","coordinates":[-70.6692655,-33.4488897]}'
 metadata:
   title: Improving the time to market of all microservices and websites for this
     Chilean digital solutions company in support of a fintech client.
@@ -66,6 +65,7 @@ body_content:
     - Plus, installation in production went from 30 minutes to 5 minutes!
 title: Jenkins is the way to help teams focus on what is really important
 date: 2021-04-28T14:49:10.000Z
+authored_by: Eduardo Mandry
 post_name: to-help-teams-focus-on-what-is-really-important
 quotes:
   - from: Eduardo Mandry, DevOps
@@ -74,4 +74,3 @@ quotes:
     image: ./quote.png
 image: noun_FinTech_1233393.png
 tag_line: One Pipeline To Build 'Em All
-submitted_by: Eduardo Mandry

@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Eric Chapman
   location: Virginia, USA
   industries:
     - Financial Services
-  name: Eric Chapman
-  latitude: "36.70983349999999"
-  longitude: "-81.9773482"
+  geojson: '{"type":"Point","coordinates":[-81.9773482,36.70983349999999]}'
 metadata:
   title: A serious and all too common challenge for enterprise organizations is
     that as more teams onboard onto the pipeline, scalability creates delivery
@@ -212,6 +211,7 @@ body_content:
       *   The centralized DevOps tools team is able to better scale Jenkins throughout the enterprise.
 title: Jenkins is the way to build a scalable CI/CD orchestration platform
 date: 2021-07-12T21:45:45.000Z
+authored_by: Eric Chapman
 post_name: to-build-a-scalable-ci-cd-orchestration-platform
 quotes:
   - from: Eric Chapman, DevOps Principal, Liatrio
@@ -222,4 +222,3 @@ quotes:
     image: ./quote.png
 image: Screen-Shot-2021-07-12-at-6.00.32-PM.png
 tag_line: Implementing Ephemeral Jenkins with Kubernetes
-submitted_by: Eric Chapman

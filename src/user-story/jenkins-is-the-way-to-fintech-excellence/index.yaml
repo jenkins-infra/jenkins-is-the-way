@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Lara Evdokimova
   location: Russia
   industries:
     - Financial Services
-  name: Lara Evdokimova
-  latitude: "55.755826"
-  longitude: "37.6173"
+  geojson: '{"type":"Point","coordinates":[37.6173,55.755826]}'
 metadata:
   title: After integrating Jenkins, this FinTech's financial transaction product
     quality is improved and 3X simpler.
@@ -77,6 +76,7 @@ body_content:
       *   the processes of continuous integration are built as comfortably as possible
 title: Jenkins is the way to fintech excellence
 date: 2020-09-21T21:33:40.000Z
+authored_by: Lara Evdokimova
 post_name: jenkins-is-the-way-to-fintech-excellence
 quotes:
   - from: Lara Evdokimova, Senior QA & Test Engineer
@@ -86,4 +86,3 @@ quotes:
     image: ./quote.png
 image: noun_payment_942498-768x768.png
 tag_line: Financial Transactions Simplified With Faster Build Cycles
-submitted_by: Lara Evdokimova

@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: V Roshan Kumar Patro
   location: India
   industries:
     - Information Technology
-  name: V Roshan Kumar Patro
-  latitude: "19.3149618"
-  longitude: "84.7940911"
+  geojson: '{"type":"Point","coordinates":[84.7940911,19.3149618]}'
 metadata:
   title: Student shares his LinuxWorld India project leveraging Jenkins with a
     focus on MI/DevOps integration.
@@ -97,6 +96,7 @@ body_content:
       *   Easily transferable project
 title: Jenkins is the way to truly automate everything!
 date: 2021-08-13T12:40:06.000Z
+authored_by: V Roshan Kumar Patro
 post_name: to-truly-automate-everything
 quotes:
   - from: V Roshan Kumar Patro, Trainee, Linux World
@@ -105,4 +105,3 @@ quotes:
     image: ./quote.png
 image: 1_2ygK0klHWoYoqX_MKicA1g.jpeg
 tag_line: Automating Ml Models with Jenkins
-submitted_by: V Roshan Kumar Patro

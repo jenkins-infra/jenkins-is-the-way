@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Ethan Collopy
   location: United Kingdom
   industries:
     - Financial Services
-  name: Ethan Collopy
-  latitude: "51.5132537"
-  longitude: "-0.3043136"
+  geojson: '{"type":"Point","coordinates":[-0.3043136,51.5132537]}'
 metadata:
   title: Lead software developer in financial services tired of having releases
     held up by an expensive 3rd-party GUI system and looked to Jenkins to
@@ -70,6 +69,7 @@ body_content:
       *   improved release auditing
 title: Jenkins is the way to own the future
 date: 2021-01-24T18:45:22.000Z
+authored_by: Ethan Collopy
 post_name: to-own-the-future
 quotes:
   - from: Ethan Collopy, Lead Developer
@@ -79,4 +79,3 @@ quotes:
     image: ./quote.png
 image: noun_investor_2260361.png
 tag_line: Supporting Middle Office Tradeflow in Financial Services
-submitted_by: Ethan Collopy

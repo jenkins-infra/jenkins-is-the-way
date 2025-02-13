@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Oleh Moskovych
   location: Ukraine
   industries:
     - Information Technology
-  name: Oleh Moskovych
-  latitude: "49.839683"
-  longitude: "24.029717"
+  geojson: '{"type":"Point","coordinates":[24.029717,49.839683]}'
 metadata:
   title: This systems engineer sought to automate DevOps to support everyone
     across the entire toolchain -- from software developers to the QA team.
@@ -89,6 +88,7 @@ body_content:
       *   flexible and easy to use declarative pipelines for everybody
 title: Jenkins is the way to make our life easier
 date: 2021-03-18T18:19:01.000Z
+authored_by: Oleh Moskovych
 post_name: to-make-our-life-easier
 quotes:
   - from: Oleh Moskovych, Systems Engineer
@@ -98,4 +98,3 @@ quotes:
     image: ./quote.png
 image: noun_Checklist_2784059.png
 tag_line: 20+ Projects Automated with CI/CD
-submitted_by: Oleh Moskovych

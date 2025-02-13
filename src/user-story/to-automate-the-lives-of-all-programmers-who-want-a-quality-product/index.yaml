@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Diogo Alves de Almeida
   location: Brazil
   industries:
     - Logistics
-  name: Diogo Alves de Almeida
-  latitude: "-23.4412149"
-  longitude: "-51.8851039"
+  geojson: '{"type":"Point","coordinates":[-51.8851039,-23.4412149]}'
 metadata:
   title: A Brazilian logistics problem easily solved by Jenkins and CI/CD,
     speeding builds and shortening development cycles\\.\\
@@ -45,6 +44,7 @@ body_content:
 title: Jenkins is the way to automate the lives of all programmers who want a
   quality product
 date: 2021-05-18T23:46:25.000Z
+authored_by: Diogo Alves de Almeida
 post_name: to-automate-the-lives-of-all-programmers-who-want-a-quality-product
 quotes:
   - from: Diogo Alves de Almeida, Student, Sincrovia Soluções Tecnológicas
@@ -53,4 +53,3 @@ quotes:
     image: ./quote.png
 image: Screen-Shot-2021-04-28-at-11.24.43-AM.png
 tag_line: Sincrovia fleet management system
-submitted_by: Diogo Alves de Almeida

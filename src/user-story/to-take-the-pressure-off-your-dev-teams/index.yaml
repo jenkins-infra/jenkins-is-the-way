@@ -1,11 +1,10 @@
 ---
 map:
+  authored_by: Peter Carenza
   location: Chattanooga, Tennessee, USA
   industries:
     - Healthcare
-  name: Peter Carenza
-  latitude: "35.0456297"
-  longitude: "-85.3096802"
+  geojson: '{"type":"Point","coordinates":[-85.3096802,35.0456297]}'
 metadata:
   title: For a large healthcare insurer, this technology team knew they needed to
     move beyond their legacy system to deliver better software, confidently.
@@ -72,6 +71,7 @@ body_content:
       *   nearly elimination of custom build scripts in favor of standardized wide scope solutions
 title: Jenkins is the way to take the pressure off your dev teams
 date: 2020-08-07T19:02:49.000Z
+authored_by: Peter Carenza
 post_name: to-take-the-pressure-off-your-dev-teams
 quotes:
   - from: Peter Carenza, DevOps Specialist
@@ -81,4 +81,3 @@ quotes:
     image: ./quote.png
 image: noun_diagnosis_2590488-300x300.png
 tag_line: Accelerating and Enhancing Customer Care
-submitted_by: Peter Carenza
