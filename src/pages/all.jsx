@@ -3,6 +3,7 @@ import { useStaticQuery, graphql, Link } from 'gatsby';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 import Layout from '../layout';
 import Seo from '../components/Seo';
+import UserStoryCard from '../components/UserStoryCard';
 
 // markup
 const AllPage = () => {
@@ -59,35 +60,14 @@ const AllPage = () => {
           <div className="col">
             <h2>Jenkins User Stories</h2>
             {stories.edges.map(({ node: story }) => (
-              <div key={story.slug} className="pb-2">
-                <div className="d-flex justify-content-right align-items-center">
-                  {story.image && (
-                    <div>
-                      <Link to={`/user-story/${story.slug}`}>
-                        <GatsbyImage
-                          image={getImage(story.image)}
-                          alt="Logo"
-                          className="mr-3"
-                        />
-                      </Link>
-                    </div>
-                  )}
-                  <div>
-                    <div>
-                      <Link to={`/user-story/${story.slug}`}>
-                        <strong>{story.title}</strong>
-                      </Link>
-                    </div>
-                    <div>
-                      <small>{story.date}</small>
-                    </div>
-                    <div>{story.tag_line}</div>
-                    <div>
-                      <Link to={`/user-story/${story.slug}`}>Read More »</Link>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              <UserStoryCard
+                key={story.slug}
+                slug={story.slug}
+                image={story.image}
+                title={story.title}
+                date={story.date}
+                tag_line={story.tag_line}
+              />
             ))}
           </div>
         </div>
