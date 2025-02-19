@@ -6,9 +6,6 @@
     "labels": [
         "dependencies"
     ],
-    "npm": {
-        "stabilityDays": 1
-    },
     "regexManagers": [
         {
             "fileMatch": [
@@ -19,16 +16,28 @@
                 "image '(?<depName>[a-z/-]+):(?<currentValue>[a-z0-9.-]+)@(?<currentDigest>sha256:[a-f0-9]+)'",
                 "image: \"(?<depName>[a-z/-]+):(?<currentValue>[a-z0-9.-]+)@(?<currentDigest>sha256:[a-f0-9]+)\""
             ],
-            "datasourceTemplate": "docker",
-            "versioningTemplate": "docker"
+            "datasourceTemplate": "npm"
+        },
+        {
+            "fileMatch": [
+                "^.github/[^/]+\\.yml$"
+            ],
+            "matchStrings": [
+                "uses: (?<depName>[^\\s]+)@(?<currentValue>[\\w\\d.-]+)"
+            ],
+            "datasourceTemplate": "github-tags"
         }
+    ],
+    "enabledManagers": [
+        "npm",
+        "github-actions"
     ],
     "packageRules": [
         {
             "matchPackageNames": [
                 "jenkinsciinfra/builder"
             ],
-            "automerge": true
+            "automerge": false
         },
         {
             "matchUpdateTypes": [
@@ -37,7 +46,18 @@
                 "pin",
                 "digest"
             ],
-            "automerge": true
+            "automerge": false
+        },
+        {
+            "managers": ["npm"],
+            "groupName": "npm dependencies",
+            "schedule": ["monthly"],
+            "matchDepTypes": ["dependencies", "devDependencies"]
+        },
+        {
+            "matchDatasources": ["npm"],
+            "minimumReleaseAge": "3 days"
         }
-    ]
+    ],
+    "rebaseWhen": "conflicted"
 }
